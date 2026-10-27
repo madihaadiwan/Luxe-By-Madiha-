@@ -1,0 +1,10 @@
+Step,Issue found,Action taken,Affected
+Remove duplicates,Fully identical order rows,"Dropped, kept first occurrence",9 rows
+Remove duplicates,Same OrderID repeated,Kept first record per OrderID,0 rows
+Fix dates,Unreadable or missing order dates,Dropped (cannot place in time),0 rows
+Standardise categories,City in lower case or misspelt (e.g. 'Karchi'),Title-cased and mapped to the correct name,22 rows
+Standardise categories,Payment written as 'Cash on Delivery',Merged into 'COD',20 rows
+Standardise categories,Status in lower case ('delivered'),Title-cased,12 rows
+Handle missing values,Missing City,Filled with 'Unknown' (rows kept),15 rows
+Handle missing values,Missing Discount,Assumed no discount (0%),6 rows
+Feature engineering,Raw columns not directly analysable,"Added NetPrice, Revenue (delivered only), ReturnFlag, CancelFlag, Month, Weekday, DiscountBand",7 new cols

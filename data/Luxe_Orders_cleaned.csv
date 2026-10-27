@@ -1,0 +1,601 @@
+OrderID,Date,Product,Category,Price,Discount,City,Payment,Status,Source,NetPrice,Delivered,ReturnFlag,CancelFlag,Revenue,Month,Weekday,DiscountBand
+LM-1001,2025-11-03,Winter Printed Suit,Winter Khaddar,10700.0,0.0,Lahore,Bank Transfer,Delivered,WhatsApp,10700.0,1,0,0,10700.0,2025-11-01,Monday,No discount
+LM-1002,2025-11-04,Digital Print Lawn,Lawn 3-Piece,7900.0,0.0,Rawalpindi,Easypaisa/JazzCash,Delivered,Instagram,7900.0,1,0,0,7900.0,2025-11-01,Tuesday,No discount
+LM-1003,2025-11-05,Net Embroidered Suit,Formal / Chiffon,19900.0,0.1,Other,COD,Delivered,WhatsApp,17910.0,1,0,0,17910.0,2025-11-01,Wednesday,1-10%
+LM-1004,2025-11-05,Karandi 3-Piece,Winter Khaddar,6900.0,0.0,Karachi,COD,Delivered,Referral,6900.0,1,0,0,6900.0,2025-11-01,Wednesday,No discount
+LM-1006,2025-11-06,Karandi 3-Piece,Winter Khaddar,7400.0,0.15,Other,COD,Delivered,WhatsApp,6290.0,1,0,0,6290.0,2025-11-01,Thursday,11-20%
+LM-1005,2025-11-06,Khaddar Embroidered Suit,Winter Khaddar,8200.0,0.0,Lahore,Bank Transfer,Delivered,Facebook,8200.0,1,0,0,8200.0,2025-11-01,Thursday,No discount
+LM-1009,2025-11-07,Chiffon Formal Suit,Formal / Chiffon,23900.0,0.0,Lahore,COD,Delivered,WhatsApp,23900.0,1,0,0,23900.0,2025-11-01,Friday,No discount
+LM-1010,2025-11-07,Printed Kurti,Kurti,3800.0,0.0,Karachi,COD,Delivered,Facebook,3800.0,1,0,0,3800.0,2025-11-01,Friday,No discount
+LM-1008,2025-11-07,Printed Pret 2-Piece,Ready-to-Wear,7400.0,0.0,Lahore,COD,Cancelled,Facebook,7400.0,0,0,1,0.0,2025-11-01,Friday,No discount
+LM-1013,2025-11-07,Embroidered Kurti,Kurti,4100.0,0.0,Rawalpindi,Bank Transfer,Delivered,WhatsApp,4100.0,1,0,0,4100.0,2025-11-01,Friday,No discount
+LM-1007,2025-11-07,Khaddar Embroidered Suit,Winter Khaddar,10100.0,0.1,Karachi,COD,Delivered,Instagram,9090.0,1,0,0,9090.0,2025-11-01,Friday,1-10%
+LM-1011,2025-11-07,Karandi 3-Piece,Winter Khaddar,8100.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,8100.0,1,0,0,8100.0,2025-11-01,Friday,No discount
+LM-1012,2025-11-07,Chiffon Formal Suit,Formal / Chiffon,16400.0,0.0,Unknown,COD,Delivered,WhatsApp,16400.0,1,0,0,16400.0,2025-11-01,Friday,No discount
+LM-1014,2025-11-07,Printed Lawn Suit,Lawn 3-Piece,7000.0,0.0,Karachi,COD,Delivered,WhatsApp,7000.0,1,0,0,7000.0,2025-11-01,Friday,No discount
+LM-1015,2025-11-08,Net Embroidered Suit,Formal / Chiffon,16100.0,0.0,Other,COD,Delivered,WhatsApp,16100.0,1,0,0,16100.0,2025-11-01,Saturday,No discount
+LM-1019,2025-11-12,Net Embroidered Suit,Formal / Chiffon,22800.0,0.05,Karachi,COD,Delivered,Instagram,21660.0,1,0,0,21660.0,2025-11-01,Wednesday,1-10%
+LM-1018,2025-11-12,Wedding Formal 3-Piece,Formal / Chiffon,14700.0,0.1,Faisalabad,COD,Delivered,Facebook,13230.0,1,0,0,13230.0,2025-11-01,Wednesday,1-10%
+LM-1016,2025-11-12,Pret Kurta Set,Ready-to-Wear,5400.0,0.05,Multan,Easypaisa/JazzCash,Delivered,Referral,5130.0,1,0,0,5130.0,2025-11-01,Wednesday,1-10%
+LM-1017,2025-11-12,Karandi 3-Piece,Winter Khaddar,7900.0,0.05,Lahore,COD,Delivered,Instagram,7505.0,1,0,0,7505.0,2025-11-01,Wednesday,1-10%
+LM-1020,2025-11-14,Karandi 3-Piece,Winter Khaddar,9900.0,0.0,Lahore,COD,Delivered,Instagram,9900.0,1,0,0,9900.0,2025-11-01,Friday,No discount
+LM-1021,2025-11-15,Karandi 3-Piece,Winter Khaddar,11400.0,0.05,Karachi,COD,Delivered,Instagram,10830.0,1,0,0,10830.0,2025-11-01,Saturday,1-10%
+LM-1022,2025-11-15,Embroidered Kurti,Kurti,3200.0,0.0,Islamabad,Bank Transfer,Returned,Instagram,3200.0,0,1,0,0.0,2025-11-01,Saturday,No discount
+LM-1023,2025-11-16,Pret Kurta Set,Ready-to-Wear,5000.0,0.05,Lahore,Easypaisa/JazzCash,Delivered,Instagram,4750.0,1,0,0,4750.0,2025-11-01,Sunday,1-10%
+LM-1024,2025-11-17,Net Embroidered Suit,Formal / Chiffon,25200.0,0.1,Rawalpindi,COD,Returned,Facebook,22680.0,0,1,0,0.0,2025-11-01,Monday,1-10%
+LM-1025,2025-11-17,Karandi 3-Piece,Winter Khaddar,11300.0,0.0,Lahore,COD,Delivered,WhatsApp,11300.0,1,0,0,11300.0,2025-11-01,Monday,No discount
+LM-1026,2025-11-17,Karandi 3-Piece,Winter Khaddar,7000.0,0.0,Karachi,COD,Delivered,Instagram,7000.0,1,0,0,7000.0,2025-11-01,Monday,No discount
+LM-1027,2025-11-18,Wedding Formal 3-Piece,Formal / Chiffon,21300.0,0.0,Lahore,COD,Delivered,WhatsApp,21300.0,1,0,0,21300.0,2025-11-01,Tuesday,No discount
+LM-1030,2025-11-19,Wedding Formal 3-Piece,Formal / Chiffon,18600.0,0.0,Karachi,COD,Delivered,Facebook,18600.0,1,0,0,18600.0,2025-11-01,Wednesday,No discount
+LM-1029,2025-11-19,Printed Pret 2-Piece,Ready-to-Wear,4600.0,0.05,Lahore,Bank Transfer,Delivered,Instagram,4370.0,1,0,0,4370.0,2025-11-01,Wednesday,1-10%
+LM-1028,2025-11-19,Co-ord Set,Ready-to-Wear,4100.0,0.05,Other,COD,Delivered,Instagram,3895.0,1,0,0,3895.0,2025-11-01,Wednesday,1-10%
+LM-1031,2025-11-19,Co-ord Set,Ready-to-Wear,4400.0,0.05,Islamabad,Bank Transfer,Delivered,Instagram,4180.0,1,0,0,4180.0,2025-11-01,Wednesday,1-10%
+LM-1034,2025-11-21,Cotton Kurti,Kurti,4300.0,0.15,Hyderabad,COD,Delivered,Facebook,3655.0,1,0,0,3655.0,2025-11-01,Friday,11-20%
+LM-1032,2025-11-21,Wedding Formal 3-Piece,Formal / Chiffon,24300.0,0.0,Hyderabad,Bank Transfer,Delivered,WhatsApp,24300.0,1,0,0,24300.0,2025-11-01,Friday,No discount
+LM-1033,2025-11-21,Karandi 3-Piece,Winter Khaddar,7500.0,0.0,Islamabad,Bank Transfer,Delivered,Instagram,7500.0,1,0,0,7500.0,2025-11-01,Friday,No discount
+LM-1035,2025-11-22,Khaddar Embroidered Suit,Winter Khaddar,7800.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Instagram,7800.0,1,0,0,7800.0,2025-11-01,Saturday,No discount
+LM-1038,2025-11-23,Embroidered Kurti,Kurti,3900.0,0.05,Karachi,Bank Transfer,Delivered,Facebook,3705.0,1,0,0,3705.0,2025-11-01,Sunday,1-10%
+LM-1037,2025-11-23,Wedding Formal 3-Piece,Formal / Chiffon,20400.0,0.0,Lahore,COD,Delivered,Referral,20400.0,1,0,0,20400.0,2025-11-01,Sunday,No discount
+LM-1036,2025-11-23,Co-ord Set,Ready-to-Wear,6700.0,0.0,Other,Bank Transfer,Cancelled,Facebook,6700.0,0,0,1,0.0,2025-11-01,Sunday,No discount
+LM-1040,2025-11-24,Co-ord Set,Ready-to-Wear,3500.0,0.0,Lahore,COD,Cancelled,Instagram,3500.0,0,0,1,0.0,2025-11-01,Monday,No discount
+LM-1039,2025-11-24,Embroidered Kurti,Kurti,4200.0,0.0,Faisalabad,Bank Transfer,Delivered,Facebook,4200.0,1,0,0,4200.0,2025-11-01,Monday,No discount
+LM-1042,2025-11-25,Cotton Kurti,Kurti,4100.0,0.0,Lahore,COD,Delivered,WhatsApp,4100.0,1,0,0,4100.0,2025-11-01,Tuesday,No discount
+LM-1043,2025-11-25,Winter Printed Suit,Winter Khaddar,7900.0,0.15,Rawalpindi,COD,Delivered,WhatsApp,6715.0,1,0,0,6715.0,2025-11-01,Tuesday,11-20%
+LM-1041,2025-11-25,Khaddar Embroidered Suit,Winter Khaddar,10200.0,0.1,Karachi,Bank Transfer,Delivered,Instagram,9180.0,1,0,0,9180.0,2025-11-01,Tuesday,1-10%
+LM-1044,2025-11-26,Cotton Kurti,Kurti,4300.0,0.0,Islamabad,COD,Delivered,WhatsApp,4300.0,1,0,0,4300.0,2025-11-01,Wednesday,No discount
+LM-1045,2025-11-26,Embroidered Lawn Suit,Lawn 3-Piece,7300.0,0.1,Lahore,COD,Delivered,Instagram,6570.0,1,0,0,6570.0,2025-11-01,Wednesday,1-10%
+LM-1047,2025-11-27,Net Embroidered Suit,Formal / Chiffon,19900.0,0.0,Lahore,Bank Transfer,Delivered,Instagram,19900.0,1,0,0,19900.0,2025-11-01,Thursday,No discount
+LM-1048,2025-11-27,Co-ord Set,Ready-to-Wear,7400.0,0.0,Lahore,COD,Delivered,WhatsApp,7400.0,1,0,0,7400.0,2025-11-01,Thursday,No discount
+LM-1046,2025-11-27,Printed Lawn Suit,Lawn 3-Piece,7800.0,0.0,Islamabad,COD,Delivered,Facebook,7800.0,1,0,0,7800.0,2025-11-01,Thursday,No discount
+LM-1049,2025-12-02,Chiffon Formal Suit,Formal / Chiffon,25100.0,0.0,Islamabad,Bank Transfer,Delivered,Referral,25100.0,1,0,0,25100.0,2025-12-01,Tuesday,No discount
+LM-1053,2025-12-03,Karandi 3-Piece,Winter Khaddar,9500.0,0.0,Other,Bank Transfer,Delivered,Instagram,9500.0,1,0,0,9500.0,2025-12-01,Wednesday,No discount
+LM-1051,2025-12-03,Chiffon Formal Suit,Formal / Chiffon,21500.0,0.1,Karachi,COD,Returned,Facebook,19350.0,0,1,0,0.0,2025-12-01,Wednesday,1-10%
+LM-1050,2025-12-03,Printed Kurti,Kurti,3100.0,0.0,Multan,COD,Delivered,WhatsApp,3100.0,1,0,0,3100.0,2025-12-01,Wednesday,No discount
+LM-1052,2025-12-03,Karandi 3-Piece,Winter Khaddar,7900.0,0.05,Lahore,COD,Delivered,Referral,7505.0,1,0,0,7505.0,2025-12-01,Wednesday,1-10%
+LM-1054,2025-12-03,Printed Kurti,Kurti,3100.0,0.0,Karachi,COD,Delivered,Instagram,3100.0,1,0,0,3100.0,2025-12-01,Wednesday,No discount
+LM-1055,2025-12-04,Karandi 3-Piece,Winter Khaddar,8100.0,0.0,Lahore,COD,Delivered,Instagram,8100.0,1,0,0,8100.0,2025-12-01,Thursday,No discount
+LM-1057,2025-12-04,Net Embroidered Suit,Formal / Chiffon,17100.0,0.0,Karachi,COD,Delivered,Instagram,17100.0,1,0,0,17100.0,2025-12-01,Thursday,No discount
+LM-1056,2025-12-04,Winter Printed Suit,Winter Khaddar,7000.0,0.1,Lahore,COD,Cancelled,WhatsApp,6300.0,0,0,1,0.0,2025-12-01,Thursday,1-10%
+LM-1058,2025-12-05,Winter Printed Suit,Winter Khaddar,9400.0,0.05,Karachi,COD,Delivered,Referral,8930.0,1,0,0,8930.0,2025-12-01,Friday,1-10%
+LM-1059,2025-12-05,Embroidered Kurti,Kurti,3200.0,0.0,Karachi,COD,Delivered,WhatsApp,3200.0,1,0,0,3200.0,2025-12-01,Friday,No discount
+LM-1061,2025-12-06,Chiffon Formal Suit,Formal / Chiffon,12400.0,0.0,Other,COD,Delivered,Instagram,12400.0,1,0,0,12400.0,2025-12-01,Saturday,No discount
+LM-1063,2025-12-06,Co-ord Set,Ready-to-Wear,5800.0,0.1,Lahore,COD,Delivered,WhatsApp,5220.0,1,0,0,5220.0,2025-12-01,Saturday,1-10%
+LM-1062,2025-12-06,Cotton Kurti,Kurti,2700.0,0.05,Other,COD,Delivered,Instagram,2565.0,1,0,0,2565.0,2025-12-01,Saturday,1-10%
+LM-1060,2025-12-06,Net Embroidered Suit,Formal / Chiffon,15300.0,0.15,Karachi,COD,Delivered,Instagram,13005.0,1,0,0,13005.0,2025-12-01,Saturday,11-20%
+LM-1064,2025-12-07,Karandi 3-Piece,Winter Khaddar,10700.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,WhatsApp,10700.0,1,0,0,10700.0,2025-12-01,Sunday,No discount
+LM-1065,2025-12-08,Pret Kurta Set,Ready-to-Wear,6300.0,0.15,Other,COD,Delivered,WhatsApp,5355.0,1,0,0,5355.0,2025-12-01,Monday,11-20%
+LM-1066,2025-12-08,Pret Kurta Set,Ready-to-Wear,5300.0,0.0,Lahore,COD,Cancelled,WhatsApp,5300.0,0,0,1,0.0,2025-12-01,Monday,No discount
+LM-1068,2025-12-09,Karandi 3-Piece,Winter Khaddar,11800.0,0.0,Multan,Easypaisa/JazzCash,Delivered,WhatsApp,11800.0,1,0,0,11800.0,2025-12-01,Tuesday,No discount
+LM-1069,2025-12-09,Khaddar Embroidered Suit,Winter Khaddar,10100.0,0.1,Rawalpindi,COD,Delivered,Referral,9090.0,1,0,0,9090.0,2025-12-01,Tuesday,1-10%
+LM-1067,2025-12-09,Pret Kurta Set,Ready-to-Wear,6500.0,0.0,Karachi,COD,Delivered,Facebook,6500.0,1,0,0,6500.0,2025-12-01,Tuesday,No discount
+LM-1072,2025-12-10,Karandi 3-Piece,Winter Khaddar,7300.0,0.0,Karachi,COD,Delivered,Instagram,7300.0,1,0,0,7300.0,2025-12-01,Wednesday,No discount
+LM-1071,2025-12-10,Chiffon Formal Suit,Formal / Chiffon,19000.0,0.0,Multan,COD,Returned,Instagram,19000.0,0,1,0,0.0,2025-12-01,Wednesday,No discount
+LM-1070,2025-12-10,Winter Printed Suit,Winter Khaddar,8900.0,0.0,Lahore,Bank Transfer,Delivered,Referral,8900.0,1,0,0,8900.0,2025-12-01,Wednesday,No discount
+LM-1073,2025-12-11,Cotton Kurti,Kurti,3700.0,0.0,Multan,COD,Delivered,WhatsApp,3700.0,1,0,0,3700.0,2025-12-01,Thursday,No discount
+LM-1074,2025-12-11,Wedding Formal 3-Piece,Formal / Chiffon,13900.0,0.0,Lahore,COD,Delivered,Instagram,13900.0,1,0,0,13900.0,2025-12-01,Thursday,No discount
+LM-1075,2025-12-12,Wedding Formal 3-Piece,Formal / Chiffon,26600.0,0.05,Peshawar,Easypaisa/JazzCash,Delivered,Facebook,25270.0,1,0,0,25270.0,2025-12-01,Friday,1-10%
+LM-1079,2025-12-13,Pret Kurta Set,Ready-to-Wear,6500.0,0.0,Karachi,COD,Delivered,Instagram,6500.0,1,0,0,6500.0,2025-12-01,Saturday,No discount
+LM-1077,2025-12-13,Cotton Kurti,Kurti,3800.0,0.0,Karachi,COD,Delivered,Instagram,3800.0,1,0,0,3800.0,2025-12-01,Saturday,No discount
+LM-1078,2025-12-13,Wedding Formal 3-Piece,Formal / Chiffon,16400.0,0.0,Lahore,COD,Cancelled,WhatsApp,16400.0,0,0,1,0.0,2025-12-01,Saturday,No discount
+LM-1076,2025-12-13,Net Embroidered Suit,Formal / Chiffon,14800.0,0.0,Hyderabad,COD,Delivered,Facebook,14800.0,1,0,0,14800.0,2025-12-01,Saturday,No discount
+LM-1080,2025-12-14,Net Embroidered Suit,Formal / Chiffon,17800.0,0.0,Karachi,COD,Delivered,Instagram,17800.0,1,0,0,17800.0,2025-12-01,Sunday,No discount
+LM-1081,2025-12-14,Net Embroidered Suit,Formal / Chiffon,16000.0,0.0,Unknown,COD,Returned,Facebook,16000.0,0,1,0,0.0,2025-12-01,Sunday,No discount
+LM-1082,2025-12-14,Printed Kurti,Kurti,4400.0,0.0,Karachi,COD,Delivered,Instagram,4400.0,1,0,0,4400.0,2025-12-01,Sunday,No discount
+LM-1083,2025-12-16,Karandi 3-Piece,Winter Khaddar,10800.0,0.0,Karachi,COD,Delivered,Facebook,10800.0,1,0,0,10800.0,2025-12-01,Tuesday,No discount
+LM-1084,2025-12-17,Winter Printed Suit,Winter Khaddar,11100.0,0.1,Karachi,COD,Returned,WhatsApp,9990.0,0,1,0,0.0,2025-12-01,Wednesday,1-10%
+LM-1086,2025-12-18,Winter Printed Suit,Winter Khaddar,7600.0,0.0,Karachi,COD,Returned,Instagram,7600.0,0,1,0,0.0,2025-12-01,Thursday,No discount
+LM-1085,2025-12-18,Net Embroidered Suit,Formal / Chiffon,20400.0,0.0,Karachi,COD,Delivered,Instagram,20400.0,1,0,0,20400.0,2025-12-01,Thursday,No discount
+LM-1087,2025-12-19,Embroidered Kurti,Kurti,2800.0,0.1,Rawalpindi,COD,Delivered,Referral,2520.0,1,0,0,2520.0,2025-12-01,Friday,1-10%
+LM-1090,2025-12-20,Pret Kurta Set,Ready-to-Wear,6600.0,0.1,Lahore,Bank Transfer,Cancelled,Instagram,5940.0,0,0,1,0.0,2025-12-01,Saturday,1-10%
+LM-1091,2025-12-20,Embroidered Kurti,Kurti,3500.0,0.0,Karachi,Bank Transfer,Delivered,WhatsApp,3500.0,1,0,0,3500.0,2025-12-01,Saturday,No discount
+LM-1089,2025-12-20,Chiffon Formal Suit,Formal / Chiffon,20800.0,0.0,Hyderabad,COD,Delivered,Instagram,20800.0,1,0,0,20800.0,2025-12-01,Saturday,No discount
+LM-1088,2025-12-20,Karandi 3-Piece,Winter Khaddar,10400.0,0.05,Lahore,COD,Delivered,Facebook,9880.0,1,0,0,9880.0,2025-12-01,Saturday,1-10%
+LM-1092,2025-12-21,Embroidered Kurti,Kurti,2600.0,0.0,Other,COD,Delivered,Instagram,2600.0,1,0,0,2600.0,2025-12-01,Sunday,No discount
+LM-1093,2025-12-22,Printed Kurti,Kurti,4000.0,0.1,Karachi,COD,Cancelled,Referral,3600.0,0,0,1,0.0,2025-12-01,Monday,1-10%
+LM-1094,2025-12-23,Winter Printed Suit,Winter Khaddar,9900.0,0.0,Karachi,Bank Transfer,Delivered,WhatsApp,9900.0,1,0,0,9900.0,2025-12-01,Tuesday,No discount
+LM-1095,2025-12-23,Printed Pret 2-Piece,Ready-to-Wear,5000.0,0.1,Islamabad,COD,Delivered,Instagram,4500.0,1,0,0,4500.0,2025-12-01,Tuesday,1-10%
+LM-1097,2025-12-24,Karandi 3-Piece,Winter Khaddar,11200.0,0.0,Karachi,Bank Transfer,Delivered,WhatsApp,11200.0,1,0,0,11200.0,2025-12-01,Wednesday,No discount
+LM-1096,2025-12-24,Co-ord Set,Ready-to-Wear,4100.0,0.05,Karachi,COD,Delivered,Instagram,3895.0,1,0,0,3895.0,2025-12-01,Wednesday,1-10%
+LM-1098,2025-12-25,Wedding Formal 3-Piece,Formal / Chiffon,19300.0,0.0,Lahore,COD,Delivered,Instagram,19300.0,1,0,0,19300.0,2025-12-01,Thursday,No discount
+LM-1099,2025-12-28,Wedding Formal 3-Piece,Formal / Chiffon,26000.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,26000.0,1,0,0,26000.0,2025-12-01,Sunday,No discount
+LM-1100,2025-12-28,Chiffon Formal Suit,Formal / Chiffon,20700.0,0.05,Multan,COD,Delivered,WhatsApp,19665.0,1,0,0,19665.0,2025-12-01,Sunday,1-10%
+LM-1101,2026-01-02,Co-ord Set,Ready-to-Wear,4200.0,0.15,Multan,COD,Delivered,Instagram,3570.0,1,0,0,3570.0,2026-01-01,Friday,11-20%
+LM-1102,2026-01-02,Karandi 3-Piece,Winter Khaddar,7400.0,0.0,Other,COD,Delivered,Instagram,7400.0,1,0,0,7400.0,2026-01-01,Friday,No discount
+LM-1103,2026-01-04,Co-ord Set,Ready-to-Wear,6700.0,0.1,Unknown,COD,Delivered,WhatsApp,6030.0,1,0,0,6030.0,2026-01-01,Sunday,1-10%
+LM-1104,2026-01-05,Printed Pret 2-Piece,Ready-to-Wear,6300.0,0.1,Karachi,COD,Delivered,Instagram,5670.0,1,0,0,5670.0,2026-01-01,Monday,1-10%
+LM-1105,2026-01-07,Winter Printed Suit,Winter Khaddar,11200.0,0.2,Unknown,Bank Transfer,Delivered,Facebook,8960.0,1,0,0,8960.0,2026-01-01,Wednesday,11-20%
+LM-1106,2026-01-08,Pret Kurta Set,Ready-to-Wear,3600.0,0.3,Karachi,COD,Returned,Instagram,2520.0,0,1,0,0.0,2026-01-01,Thursday,Over 20%
+LM-1108,2026-01-09,Karandi 3-Piece,Winter Khaddar,6900.0,0.0,Karachi,COD,Delivered,WhatsApp,6900.0,1,0,0,6900.0,2026-01-01,Friday,No discount
+LM-1107,2026-01-09,Wedding Formal 3-Piece,Formal / Chiffon,20500.0,0.2,Unknown,COD,Delivered,WhatsApp,16400.0,1,0,0,16400.0,2026-01-01,Friday,11-20%
+LM-1109,2026-01-10,Chiffon Formal Suit,Formal / Chiffon,18400.0,0.1,Multan,COD,Delivered,Facebook,16560.0,1,0,0,16560.0,2026-01-01,Saturday,1-10%
+LM-1110,2026-01-10,Karandi 3-Piece,Winter Khaddar,11300.0,0.2,Karachi,COD,Returned,WhatsApp,9040.0,0,1,0,0.0,2026-01-01,Saturday,11-20%
+LM-1111,2026-01-11,Karandi 3-Piece,Winter Khaddar,8600.0,0.0,Lahore,Bank Transfer,Delivered,Facebook,8600.0,1,0,0,8600.0,2026-01-01,Sunday,No discount
+LM-1112,2026-01-14,Karandi 3-Piece,Winter Khaddar,11900.0,0.3,Karachi,COD,Delivered,WhatsApp,8330.0,1,0,0,8330.0,2026-01-01,Wednesday,Over 20%
+LM-1113,2026-01-14,Winter Printed Suit,Winter Khaddar,10400.0,0.2,Hyderabad,COD,Delivered,Instagram,8320.0,1,0,0,8320.0,2026-01-01,Wednesday,11-20%
+LM-1115,2026-01-15,Printed Pret 2-Piece,Ready-to-Wear,3900.0,0.2,Unknown,Easypaisa/JazzCash,Delivered,WhatsApp,3120.0,1,0,0,3120.0,2026-01-01,Thursday,11-20%
+LM-1114,2026-01-15,Cotton Kurti,Kurti,4200.0,0.0,Other,Bank Transfer,Delivered,Facebook,4200.0,1,0,0,4200.0,2026-01-01,Thursday,No discount
+LM-1117,2026-01-16,Winter Printed Suit,Winter Khaddar,10100.0,0.2,Lahore,COD,Returned,WhatsApp,8080.0,0,1,0,0.0,2026-01-01,Friday,11-20%
+LM-1118,2026-01-16,Net Embroidered Suit,Formal / Chiffon,14200.0,0.3,Faisalabad,COD,Delivered,Referral,9940.0,1,0,0,9940.0,2026-01-01,Friday,Over 20%
+LM-1116,2026-01-16,Co-ord Set,Ready-to-Wear,7300.0,0.05,Faisalabad,COD,Returned,WhatsApp,6935.0,0,1,0,0.0,2026-01-01,Friday,1-10%
+LM-1119,2026-01-16,Cotton Kurti,Kurti,4100.0,0.1,Faisalabad,COD,Delivered,Facebook,3690.0,1,0,0,3690.0,2026-01-01,Friday,1-10%
+LM-1120,2026-01-17,Winter Printed Suit,Winter Khaddar,11200.0,0.0,Karachi,COD,Delivered,Instagram,11200.0,1,0,0,11200.0,2026-01-01,Saturday,No discount
+LM-1121,2026-01-18,Khaddar Embroidered Suit,Winter Khaddar,11700.0,0.15,Karachi,COD,Delivered,WhatsApp,9945.0,1,0,0,9945.0,2026-01-01,Sunday,11-20%
+LM-1122,2026-01-19,Winter Printed Suit,Winter Khaddar,11000.0,0.0,Lahore,COD,Cancelled,Referral,11000.0,0,0,1,0.0,2026-01-01,Monday,No discount
+LM-1123,2026-01-19,Khaddar Embroidered Suit,Winter Khaddar,11300.0,0.1,Karachi,Bank Transfer,Delivered,Facebook,10170.0,1,0,0,10170.0,2026-01-01,Monday,1-10%
+LM-1124,2026-01-20,Pret Kurta Set,Ready-to-Wear,7000.0,0.05,Hyderabad,Bank Transfer,Cancelled,Instagram,6650.0,0,0,1,0.0,2026-01-01,Tuesday,1-10%
+LM-1126,2026-01-22,Winter Printed Suit,Winter Khaddar,10300.0,0.3,Rawalpindi,Bank Transfer,Returned,Facebook,7209.999999999999,0,1,0,0.0,2026-01-01,Thursday,Over 20%
+LM-1127,2026-01-22,Printed Kurti,Kurti,2800.0,0.3,Lahore,COD,Delivered,Instagram,1959.9999999999998,1,0,0,1959.9999999999998,2026-01-01,Thursday,Over 20%
+LM-1125,2026-01-22,Karandi 3-Piece,Winter Khaddar,11600.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,11600.0,1,0,0,11600.0,2026-01-01,Thursday,No discount
+LM-1129,2026-01-24,Winter Printed Suit,Winter Khaddar,10600.0,0.2,Karachi,COD,Cancelled,Facebook,8480.0,0,0,1,0.0,2026-01-01,Saturday,11-20%
+LM-1128,2026-01-24,Net Embroidered Suit,Formal / Chiffon,15400.0,0.1,Islamabad,Easypaisa/JazzCash,Cancelled,Instagram,13860.0,0,0,1,0.0,2026-01-01,Saturday,1-10%
+LM-1130,2026-01-25,Khaddar Embroidered Suit,Winter Khaddar,11500.0,0.15,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,9775.0,1,0,0,9775.0,2026-01-01,Sunday,11-20%
+LM-1131,2026-01-26,Co-ord Set,Ready-to-Wear,5000.0,0.0,Karachi,COD,Delivered,Instagram,5000.0,1,0,0,5000.0,2026-01-01,Monday,No discount
+LM-1132,2026-01-26,Printed Lawn Suit,Lawn 3-Piece,5600.0,0.2,Islamabad,Bank Transfer,Returned,Instagram,4480.0,0,1,0,0.0,2026-01-01,Monday,11-20%
+LM-1133,2026-01-28,Wedding Formal 3-Piece,Formal / Chiffon,27200.0,0.0,Islamabad,COD,Delivered,Instagram,27200.0,1,0,0,27200.0,2026-01-01,Wednesday,No discount
+LM-1134,2026-02-01,Winter Printed Suit,Winter Khaddar,7500.0,0.0,Islamabad,Bank Transfer,Delivered,Facebook,7500.0,1,0,0,7500.0,2026-02-01,Sunday,No discount
+LM-1135,2026-02-03,Net Embroidered Suit,Formal / Chiffon,22500.0,0.0,Karachi,COD,Cancelled,Instagram,22500.0,0,0,1,0.0,2026-02-01,Tuesday,No discount
+LM-1136,2026-02-04,Printed Kurti,Kurti,2600.0,0.0,Karachi,COD,Delivered,Instagram,2600.0,1,0,0,2600.0,2026-02-01,Wednesday,No discount
+LM-1137,2026-02-05,Printed Pret 2-Piece,Ready-to-Wear,6000.0,0.05,Lahore,COD,Cancelled,Referral,5700.0,0,0,1,0.0,2026-02-01,Thursday,1-10%
+LM-1138,2026-02-05,Printed Pret 2-Piece,Ready-to-Wear,7500.0,0.05,Karachi,COD,Delivered,Instagram,7125.0,1,0,0,7125.0,2026-02-01,Thursday,1-10%
+LM-1139,2026-02-06,Printed Kurti,Kurti,3100.0,0.2,Lahore,Bank Transfer,Delivered,Instagram,2480.0,1,0,0,2480.0,2026-02-01,Friday,11-20%
+LM-1140,2026-02-07,Chiffon Formal Suit,Formal / Chiffon,17100.0,0.0,Other,Bank Transfer,Delivered,Instagram,17100.0,1,0,0,17100.0,2026-02-01,Saturday,No discount
+LM-1141,2026-02-07,Khaddar Embroidered Suit,Winter Khaddar,7800.0,0.0,Hyderabad,COD,Delivered,Instagram,7800.0,1,0,0,7800.0,2026-02-01,Saturday,No discount
+LM-1143,2026-02-08,Winter Printed Suit,Winter Khaddar,11200.0,0.2,Karachi,COD,Cancelled,Instagram,8960.0,0,0,1,0.0,2026-02-01,Sunday,11-20%
+LM-1142,2026-02-08,Digital Print Lawn,Lawn 3-Piece,6100.0,0.05,Rawalpindi,Easypaisa/JazzCash,Returned,Instagram,5795.0,0,1,0,0.0,2026-02-01,Sunday,1-10%
+LM-1145,2026-02-09,Khaddar Embroidered Suit,Winter Khaddar,9700.0,0.15,Islamabad,Bank Transfer,Delivered,Facebook,8245.0,1,0,0,8245.0,2026-02-01,Monday,11-20%
+LM-1144,2026-02-09,Karandi 3-Piece,Winter Khaddar,6600.0,0.2,Lahore,COD,Delivered,Facebook,5280.0,1,0,0,5280.0,2026-02-01,Monday,11-20%
+LM-1146,2026-02-09,Khaddar Embroidered Suit,Winter Khaddar,11500.0,0.0,Karachi,COD,Delivered,WhatsApp,11500.0,1,0,0,11500.0,2026-02-01,Monday,No discount
+LM-1147,2026-02-10,Karandi 3-Piece,Winter Khaddar,10300.0,0.05,Lahore,Easypaisa/JazzCash,Delivered,Instagram,9785.0,1,0,0,9785.0,2026-02-01,Tuesday,1-10%
+LM-1151,2026-02-12,Pret Kurta Set,Ready-to-Wear,3600.0,0.0,Karachi,COD,Returned,WhatsApp,3600.0,0,1,0,0.0,2026-02-01,Thursday,No discount
+LM-1150,2026-02-12,Khaddar Embroidered Suit,Winter Khaddar,11200.0,0.1,Karachi,COD,Delivered,Facebook,10080.0,1,0,0,10080.0,2026-02-01,Thursday,1-10%
+LM-1148,2026-02-12,Printed Kurti,Kurti,4000.0,0.1,Multan,Easypaisa/JazzCash,Delivered,WhatsApp,3600.0,1,0,0,3600.0,2026-02-01,Thursday,1-10%
+LM-1149,2026-02-12,Winter Printed Suit,Winter Khaddar,10800.0,0.0,Karachi,COD,Delivered,Referral,10800.0,1,0,0,10800.0,2026-02-01,Thursday,No discount
+LM-1154,2026-02-16,Printed Kurti,Kurti,4200.0,0.0,Multan,COD,Delivered,Instagram,4200.0,1,0,0,4200.0,2026-02-01,Monday,No discount
+LM-1152,2026-02-16,Karandi 3-Piece,Winter Khaddar,11000.0,0.0,Hyderabad,Bank Transfer,Returned,Instagram,11000.0,0,1,0,0.0,2026-02-01,Monday,No discount
+LM-1153,2026-02-16,Khaddar Embroidered Suit,Winter Khaddar,11500.0,0.0,Islamabad,COD,Delivered,WhatsApp,11500.0,1,0,0,11500.0,2026-02-01,Monday,No discount
+LM-1155,2026-02-19,Printed Pret 2-Piece,Ready-to-Wear,5600.0,0.15,Karachi,Bank Transfer,Delivered,Facebook,4760.0,1,0,0,4760.0,2026-02-01,Thursday,11-20%
+LM-1157,2026-02-20,Karandi 3-Piece,Winter Khaddar,7300.0,0.0,Multan,COD,Delivered,Instagram,7300.0,1,0,0,7300.0,2026-02-01,Friday,No discount
+LM-1156,2026-02-20,Winter Printed Suit,Winter Khaddar,10300.0,0.05,Karachi,COD,Returned,WhatsApp,9785.0,0,1,0,0.0,2026-02-01,Friday,1-10%
+LM-1158,2026-02-21,Pret Kurta Set,Ready-to-Wear,3600.0,0.0,Islamabad,COD,Delivered,Instagram,3600.0,1,0,0,3600.0,2026-02-01,Saturday,No discount
+LM-1159,2026-02-22,Winter Printed Suit,Winter Khaddar,9200.0,0.15,Lahore,COD,Returned,WhatsApp,7820.0,0,1,0,0.0,2026-02-01,Sunday,11-20%
+LM-1160,2026-02-22,Printed Pret 2-Piece,Ready-to-Wear,7300.0,0.0,Faisalabad,COD,Delivered,Referral,7300.0,1,0,0,7300.0,2026-02-01,Sunday,No discount
+LM-1161,2026-02-23,Karandi 3-Piece,Winter Khaddar,11800.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,11800.0,1,0,0,11800.0,2026-02-01,Monday,No discount
+LM-1162,2026-02-25,Printed Kurti,Kurti,3000.0,0.1,Karachi,COD,Delivered,Instagram,2700.0,1,0,0,2700.0,2026-02-01,Wednesday,1-10%
+LM-1163,2026-02-25,Chiffon Formal Suit,Formal / Chiffon,18300.0,0.0,Other,COD,Delivered,Instagram,18300.0,1,0,0,18300.0,2026-02-01,Wednesday,No discount
+LM-1164,2026-02-25,Co-ord Set,Ready-to-Wear,5200.0,0.0,Karachi,COD,Delivered,Instagram,5200.0,1,0,0,5200.0,2026-02-01,Wednesday,No discount
+LM-1165,2026-02-26,Chiffon Formal Suit,Formal / Chiffon,22600.0,0.0,Multan,COD,Cancelled,Instagram,22600.0,0,0,1,0.0,2026-02-01,Thursday,No discount
+LM-1168,2026-02-28,Embroidered Kurti,Kurti,2900.0,0.1,Peshawar,COD,Delivered,WhatsApp,2610.0,1,0,0,2610.0,2026-02-01,Saturday,1-10%
+LM-1169,2026-02-28,Printed Kurti,Kurti,3800.0,0.0,Karachi,COD,Delivered,Instagram,3800.0,1,0,0,3800.0,2026-02-01,Saturday,No discount
+LM-1167,2026-02-28,Karandi 3-Piece,Winter Khaddar,7600.0,0.1,Multan,COD,Returned,Instagram,6840.0,0,1,0,0.0,2026-02-01,Saturday,1-10%
+LM-1166,2026-02-28,Printed Pret 2-Piece,Ready-to-Wear,4200.0,0.0,Lahore,COD,Cancelled,Instagram,4200.0,0,0,1,0.0,2026-02-01,Saturday,No discount
+LM-1170,2026-03-01,Cotton Kurti,Kurti,4500.0,0.0,Karachi,COD,Delivered,Facebook,4500.0,1,0,0,4500.0,2026-03-01,Sunday,No discount
+LM-1171,2026-03-01,Embroidered Lawn Suit,Lawn 3-Piece,5600.0,0.0,Faisalabad,COD,Delivered,WhatsApp,5600.0,1,0,0,5600.0,2026-03-01,Sunday,No discount
+LM-1174,2026-03-02,Co-ord Set,Ready-to-Wear,4600.0,0.1,Karachi,COD,Delivered,Facebook,4140.0,1,0,0,4140.0,2026-03-01,Monday,1-10%
+LM-1173,2026-03-02,Printed Kurti,Kurti,2600.0,0.1,Lahore,COD,Delivered,Facebook,2340.0,1,0,0,2340.0,2026-03-01,Monday,1-10%
+LM-1172,2026-03-02,Printed Pret 2-Piece,Ready-to-Wear,4600.0,0.0,Other,COD,Delivered,Instagram,4600.0,1,0,0,4600.0,2026-03-01,Monday,No discount
+LM-1175,2026-03-02,Printed Pret 2-Piece,Ready-to-Wear,5100.0,0.05,Karachi,Easypaisa/JazzCash,Delivered,Instagram,4845.0,1,0,0,4845.0,2026-03-01,Monday,1-10%
+LM-1177,2026-03-03,Wedding Formal 3-Piece,Formal / Chiffon,15400.0,0.0,Other,COD,Delivered,Referral,15400.0,1,0,0,15400.0,2026-03-01,Tuesday,No discount
+LM-1176,2026-03-03,Co-ord Set,Ready-to-Wear,6200.0,0.0,Rawalpindi,COD,Delivered,WhatsApp,6200.0,1,0,0,6200.0,2026-03-01,Tuesday,No discount
+LM-1178,2026-03-04,Net Embroidered Suit,Formal / Chiffon,18000.0,0.15,Other,Bank Transfer,Delivered,WhatsApp,15300.0,1,0,0,15300.0,2026-03-01,Wednesday,11-20%
+LM-1179,2026-03-04,Net Embroidered Suit,Formal / Chiffon,14800.0,0.0,Karachi,COD,Delivered,Referral,14800.0,1,0,0,14800.0,2026-03-01,Wednesday,No discount
+LM-1180,2026-03-05,Digital Print Lawn,Lawn 3-Piece,8900.0,0.15,Other,COD,Cancelled,Instagram,7565.0,0,0,1,0.0,2026-03-01,Thursday,11-20%
+LM-1182,2026-03-06,Embroidered Kurti,Kurti,2600.0,0.0,Other,COD,Delivered,WhatsApp,2600.0,1,0,0,2600.0,2026-03-01,Friday,No discount
+LM-1181,2026-03-06,Printed Lawn Suit,Lawn 3-Piece,6400.0,0.0,Multan,COD,Delivered,Referral,6400.0,1,0,0,6400.0,2026-03-01,Friday,No discount
+LM-1188,2026-03-07,Co-ord Set,Ready-to-Wear,6100.0,0.05,Islamabad,Easypaisa/JazzCash,Delivered,Instagram,5795.0,1,0,0,5795.0,2026-03-01,Saturday,1-10%
+LM-1183,2026-03-07,Embroidered Lawn Suit,Lawn 3-Piece,7500.0,0.0,Lahore,Bank Transfer,Returned,Instagram,7500.0,0,1,0,0.0,2026-03-01,Saturday,No discount
+LM-1186,2026-03-07,Chiffon Formal Suit,Formal / Chiffon,26200.0,0.0,Other,COD,Cancelled,Instagram,26200.0,0,0,1,0.0,2026-03-01,Saturday,No discount
+LM-1185,2026-03-07,Embroidered Lawn Suit,Lawn 3-Piece,6200.0,0.1,Karachi,COD,Delivered,Instagram,5580.0,1,0,0,5580.0,2026-03-01,Saturday,1-10%
+LM-1184,2026-03-07,Digital Print Lawn,Lawn 3-Piece,5700.0,0.0,Karachi,Bank Transfer,Delivered,Referral,5700.0,1,0,0,5700.0,2026-03-01,Saturday,No discount
+LM-1187,2026-03-07,Digital Print Lawn,Lawn 3-Piece,9000.0,0.0,Other,Easypaisa/JazzCash,Delivered,WhatsApp,9000.0,1,0,0,9000.0,2026-03-01,Saturday,No discount
+LM-1192,2026-03-08,Printed Pret 2-Piece,Ready-to-Wear,6200.0,0.0,Islamabad,COD,Delivered,Facebook,6200.0,1,0,0,6200.0,2026-03-01,Sunday,No discount
+LM-1191,2026-03-08,Chiffon Formal Suit,Formal / Chiffon,14300.0,0.0,Karachi,Easypaisa/JazzCash,Returned,Instagram,14300.0,0,1,0,0.0,2026-03-01,Sunday,No discount
+LM-1189,2026-03-08,Wedding Formal 3-Piece,Formal / Chiffon,17100.0,0.0,Lahore,COD,Delivered,Instagram,17100.0,1,0,0,17100.0,2026-03-01,Sunday,No discount
+LM-1190,2026-03-08,Embroidered Lawn Suit,Lawn 3-Piece,9200.0,0.0,Other,Easypaisa/JazzCash,Delivered,WhatsApp,9200.0,1,0,0,9200.0,2026-03-01,Sunday,No discount
+LM-1195,2026-03-09,Digital Print Lawn,Lawn 3-Piece,8800.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,8800.0,1,0,0,8800.0,2026-03-01,Monday,No discount
+LM-1193,2026-03-09,Printed Kurti,Kurti,4400.0,0.15,Karachi,Easypaisa/JazzCash,Delivered,Instagram,3740.0,1,0,0,3740.0,2026-03-01,Monday,11-20%
+LM-1194,2026-03-09,Digital Print Lawn,Lawn 3-Piece,7000.0,0.0,Islamabad,Bank Transfer,Delivered,Instagram,7000.0,1,0,0,7000.0,2026-03-01,Monday,No discount
+LM-1197,2026-03-11,Chiffon Formal Suit,Formal / Chiffon,20100.0,0.0,Other,COD,Delivered,Instagram,20100.0,1,0,0,20100.0,2026-03-01,Wednesday,No discount
+LM-1196,2026-03-11,Chiffon Formal Suit,Formal / Chiffon,24500.0,0.05,Faisalabad,COD,Delivered,Facebook,23275.0,1,0,0,23275.0,2026-03-01,Wednesday,1-10%
+LM-1200,2026-03-12,Printed Lawn Suit,Lawn 3-Piece,8700.0,0.1,Karachi,COD,Delivered,Instagram,7830.0,1,0,0,7830.0,2026-03-01,Thursday,1-10%
+LM-1202,2026-03-12,Wedding Formal 3-Piece,Formal / Chiffon,16700.0,0.15,Multan,Bank Transfer,Delivered,WhatsApp,14195.0,1,0,0,14195.0,2026-03-01,Thursday,11-20%
+LM-1203,2026-03-12,Wedding Formal 3-Piece,Formal / Chiffon,16300.0,0.0,Islamabad,COD,Delivered,Instagram,16300.0,1,0,0,16300.0,2026-03-01,Thursday,No discount
+LM-1198,2026-03-12,Printed Lawn Suit,Lawn 3-Piece,7100.0,0.0,Multan,COD,Delivered,Referral,7100.0,1,0,0,7100.0,2026-03-01,Thursday,No discount
+LM-1199,2026-03-12,Karandi 3-Piece,Winter Khaddar,7600.0,0.0,Faisalabad,COD,Returned,Referral,7600.0,0,1,0,0.0,2026-03-01,Thursday,No discount
+LM-1201,2026-03-12,Wedding Formal 3-Piece,Formal / Chiffon,25900.0,0.05,Lahore,COD,Cancelled,Referral,24605.0,0,0,1,0.0,2026-03-01,Thursday,1-10%
+LM-1205,2026-03-13,Digital Print Lawn,Lawn 3-Piece,9200.0,0.0,Other,COD,Delivered,Instagram,9200.0,1,0,0,9200.0,2026-03-01,Friday,No discount
+LM-1204,2026-03-13,Co-ord Set,Ready-to-Wear,5400.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,WhatsApp,5400.0,1,0,0,5400.0,2026-03-01,Friday,No discount
+LM-1206,2026-03-13,Embroidered Kurti,Kurti,3100.0,0.2,Hyderabad,COD,Delivered,Instagram,2480.0,1,0,0,2480.0,2026-03-01,Friday,11-20%
+LM-1208,2026-03-14,Digital Print Lawn,Lawn 3-Piece,8600.0,0.0,Multan,COD,Delivered,WhatsApp,8600.0,1,0,0,8600.0,2026-03-01,Saturday,No discount
+LM-1209,2026-03-14,Printed Lawn Suit,Lawn 3-Piece,7700.0,0.05,Faisalabad,Easypaisa/JazzCash,Returned,Facebook,7315.0,0,1,0,0.0,2026-03-01,Saturday,1-10%
+LM-1207,2026-03-14,Net Embroidered Suit,Formal / Chiffon,15200.0,0.0,Karachi,COD,Returned,WhatsApp,15200.0,0,1,0,0.0,2026-03-01,Saturday,No discount
+LM-1210,2026-03-14,Wedding Formal 3-Piece,Formal / Chiffon,22500.0,0.0,Rawalpindi,Bank Transfer,Delivered,WhatsApp,22500.0,1,0,0,22500.0,2026-03-01,Saturday,No discount
+LM-1211,2026-03-14,Pret Kurta Set,Ready-to-Wear,4100.0,0.1,Islamabad,COD,Cancelled,Referral,3690.0,0,0,1,0.0,2026-03-01,Saturday,1-10%
+LM-1213,2026-03-15,Pret Kurta Set,Ready-to-Wear,5500.0,0.0,Karachi,COD,Returned,WhatsApp,5500.0,0,1,0,0.0,2026-03-01,Sunday,No discount
+LM-1212,2026-03-15,Chiffon Formal Suit,Formal / Chiffon,26900.0,0.0,Karachi,COD,Delivered,WhatsApp,26900.0,1,0,0,26900.0,2026-03-01,Sunday,No discount
+LM-1215,2026-03-16,Printed Kurti,Kurti,3400.0,0.05,Lahore,COD,Delivered,WhatsApp,3230.0,1,0,0,3230.0,2026-03-01,Monday,1-10%
+LM-1214,2026-03-16,Digital Print Lawn,Lawn 3-Piece,7400.0,0.1,Lahore,COD,Delivered,Instagram,6660.0,1,0,0,6660.0,2026-03-01,Monday,1-10%
+LM-1216,2026-03-16,Printed Lawn Suit,Lawn 3-Piece,5900.0,0.0,Karachi,COD,Delivered,WhatsApp,5900.0,1,0,0,5900.0,2026-03-01,Monday,No discount
+LM-1217,2026-03-17,Printed Kurti,Kurti,4100.0,0.1,Karachi,COD,Delivered,Facebook,3690.0,1,0,0,3690.0,2026-03-01,Tuesday,1-10%
+LM-1220,2026-03-19,Pret Kurta Set,Ready-to-Wear,5600.0,0.0,Karachi,COD,Delivered,Instagram,5600.0,1,0,0,5600.0,2026-03-01,Thursday,No discount
+LM-1218,2026-03-19,Printed Lawn Suit,Lawn 3-Piece,7800.0,0.0,Lahore,COD,Delivered,WhatsApp,7800.0,1,0,0,7800.0,2026-03-01,Thursday,No discount
+LM-1219,2026-03-19,Printed Lawn Suit,Lawn 3-Piece,7600.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,WhatsApp,7600.0,1,0,0,7600.0,2026-03-01,Thursday,No discount
+LM-1224,2026-03-20,Chiffon Formal Suit,Formal / Chiffon,18600.0,0.0,Lahore,Bank Transfer,Delivered,Referral,18600.0,1,0,0,18600.0,2026-03-01,Friday,No discount
+LM-1223,2026-03-20,Chiffon Formal Suit,Formal / Chiffon,14800.0,0.15,Karachi,COD,Delivered,Instagram,12580.0,1,0,0,12580.0,2026-03-01,Friday,11-20%
+LM-1222,2026-03-20,Wedding Formal 3-Piece,Formal / Chiffon,13400.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,WhatsApp,13400.0,1,0,0,13400.0,2026-03-01,Friday,No discount
+LM-1225,2026-03-20,Digital Print Lawn,Lawn 3-Piece,9200.0,0.05,Lahore,COD,Delivered,Instagram,8740.0,1,0,0,8740.0,2026-03-01,Friday,1-10%
+LM-1221,2026-03-20,Embroidered Lawn Suit,Lawn 3-Piece,6400.0,0.0,Lahore,COD,Delivered,Instagram,6400.0,1,0,0,6400.0,2026-03-01,Friday,No discount
+LM-1226,2026-03-21,Printed Lawn Suit,Lawn 3-Piece,7800.0,0.2,Lahore,COD,Cancelled,WhatsApp,6240.0,0,0,1,0.0,2026-03-01,Saturday,11-20%
+LM-1229,2026-03-22,Printed Kurti,Kurti,3900.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,3900.0,1,0,0,3900.0,2026-03-01,Sunday,No discount
+LM-1227,2026-03-22,Pret Kurta Set,Ready-to-Wear,4700.0,0.15,Islamabad,COD,Delivered,WhatsApp,3995.0,1,0,0,3995.0,2026-03-01,Sunday,11-20%
+LM-1228,2026-03-22,Net Embroidered Suit,Formal / Chiffon,20200.0,0.0,Lahore,COD,Returned,WhatsApp,20200.0,0,1,0,0.0,2026-03-01,Sunday,No discount
+LM-1230,2026-03-22,Wedding Formal 3-Piece,Formal / Chiffon,16800.0,0.1,Lahore,COD,Returned,Instagram,15120.0,0,1,0,0.0,2026-03-01,Sunday,1-10%
+LM-1231,2026-03-23,Printed Kurti,Kurti,3700.0,0.0,Lahore,COD,Delivered,WhatsApp,3700.0,1,0,0,3700.0,2026-03-01,Monday,No discount
+LM-1235,2026-03-24,Net Embroidered Suit,Formal / Chiffon,17200.0,0.0,Rawalpindi,COD,Delivered,Instagram,17200.0,1,0,0,17200.0,2026-03-01,Tuesday,No discount
+LM-1232,2026-03-24,Printed Lawn Suit,Lawn 3-Piece,8400.0,0.0,Faisalabad,COD,Cancelled,Facebook,8400.0,0,0,1,0.0,2026-03-01,Tuesday,No discount
+LM-1233,2026-03-24,Wedding Formal 3-Piece,Formal / Chiffon,23300.0,0.0,Karachi,Bank Transfer,Delivered,WhatsApp,23300.0,1,0,0,23300.0,2026-03-01,Tuesday,No discount
+LM-1234,2026-03-24,Printed Lawn Suit,Lawn 3-Piece,5500.0,0.0,Other,Easypaisa/JazzCash,Delivered,Instagram,5500.0,1,0,0,5500.0,2026-03-01,Tuesday,No discount
+LM-1239,2026-03-25,Embroidered Lawn Suit,Lawn 3-Piece,8900.0,0.0,Hyderabad,COD,Delivered,Instagram,8900.0,1,0,0,8900.0,2026-03-01,Wednesday,No discount
+LM-1237,2026-03-25,Printed Lawn Suit,Lawn 3-Piece,6400.0,0.0,Peshawar,Bank Transfer,Cancelled,Facebook,6400.0,0,0,1,0.0,2026-03-01,Wednesday,No discount
+LM-1238,2026-03-25,Printed Lawn Suit,Lawn 3-Piece,7600.0,0.0,Lahore,Bank Transfer,Delivered,WhatsApp,7600.0,1,0,0,7600.0,2026-03-01,Wednesday,No discount
+LM-1236,2026-03-25,Net Embroidered Suit,Formal / Chiffon,16800.0,0.05,Karachi,COD,Delivered,Instagram,15960.0,1,0,0,15960.0,2026-03-01,Wednesday,1-10%
+LM-1240,2026-03-27,Printed Lawn Suit,Lawn 3-Piece,5700.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,5700.0,1,0,0,5700.0,2026-03-01,Friday,No discount
+LM-1241,2026-03-27,Printed Lawn Suit,Lawn 3-Piece,7900.0,0.1,Lahore,COD,Delivered,WhatsApp,7110.0,1,0,0,7110.0,2026-03-01,Friday,1-10%
+LM-1243,2026-03-28,Net Embroidered Suit,Formal / Chiffon,27300.0,0.05,Lahore,COD,Delivered,Referral,25935.0,1,0,0,25935.0,2026-03-01,Saturday,1-10%
+LM-1242,2026-03-28,Printed Lawn Suit,Lawn 3-Piece,6000.0,0.05,Karachi,COD,Returned,Facebook,5700.0,0,1,0,0.0,2026-03-01,Saturday,1-10%
+LM-1246,2026-04-01,Printed Lawn Suit,Lawn 3-Piece,5600.0,0.0,Karachi,COD,Cancelled,WhatsApp,5600.0,0,0,1,0.0,2026-04-01,Wednesday,No discount
+LM-1244,2026-04-01,Printed Lawn Suit,Lawn 3-Piece,7100.0,0.0,Islamabad,COD,Delivered,Instagram,7100.0,1,0,0,7100.0,2026-04-01,Wednesday,No discount
+LM-1245,2026-04-01,Printed Pret 2-Piece,Ready-to-Wear,7300.0,0.0,Lahore,COD,Returned,Instagram,7300.0,0,1,0,0.0,2026-04-01,Wednesday,No discount
+LM-1247,2026-04-02,Embroidered Lawn Suit,Lawn 3-Piece,7800.0,0.0,Lahore,COD,Delivered,Facebook,7800.0,1,0,0,7800.0,2026-04-01,Thursday,No discount
+LM-1249,2026-04-02,Printed Lawn Suit,Lawn 3-Piece,9300.0,0.0,Lahore,COD,Delivered,Referral,9300.0,1,0,0,9300.0,2026-04-01,Thursday,No discount
+LM-1250,2026-04-02,Printed Kurti,Kurti,3100.0,0.2,Karachi,COD,Returned,Instagram,2480.0,0,1,0,0.0,2026-04-01,Thursday,11-20%
+LM-1248,2026-04-02,Wedding Formal 3-Piece,Formal / Chiffon,16000.0,0.0,Lahore,COD,Delivered,Instagram,16000.0,1,0,0,16000.0,2026-04-01,Thursday,No discount
+LM-1252,2026-04-03,Digital Print Lawn,Lawn 3-Piece,6000.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Referral,6000.0,1,0,0,6000.0,2026-04-01,Friday,No discount
+LM-1253,2026-04-03,Chiffon Formal Suit,Formal / Chiffon,27900.0,0.0,Karachi,COD,Delivered,Instagram,27900.0,1,0,0,27900.0,2026-04-01,Friday,No discount
+LM-1254,2026-04-03,Pret Kurta Set,Ready-to-Wear,5700.0,0.1,Karachi,Bank Transfer,Delivered,Facebook,5130.0,1,0,0,5130.0,2026-04-01,Friday,1-10%
+LM-1251,2026-04-03,Embroidered Kurti,Kurti,4000.0,0.0,Karachi,COD,Delivered,WhatsApp,4000.0,1,0,0,4000.0,2026-04-01,Friday,No discount
+LM-1255,2026-04-03,Printed Kurti,Kurti,3700.0,0.0,Karachi,COD,Delivered,Facebook,3700.0,1,0,0,3700.0,2026-04-01,Friday,No discount
+LM-1256,2026-04-04,Printed Pret 2-Piece,Ready-to-Wear,6700.0,0.0,Karachi,COD,Returned,Instagram,6700.0,0,1,0,0.0,2026-04-01,Saturday,No discount
+LM-1257,2026-04-04,Digital Print Lawn,Lawn 3-Piece,6700.0,0.1,Karachi,COD,Returned,WhatsApp,6030.0,0,1,0,0.0,2026-04-01,Saturday,1-10%
+LM-1259,2026-04-05,Pret Kurta Set,Ready-to-Wear,7000.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,7000.0,1,0,0,7000.0,2026-04-01,Sunday,No discount
+LM-1258,2026-04-05,Pret Kurta Set,Ready-to-Wear,6100.0,0.0,Lahore,Bank Transfer,Delivered,Facebook,6100.0,1,0,0,6100.0,2026-04-01,Sunday,No discount
+LM-1260,2026-04-05,Co-ord Set,Ready-to-Wear,4900.0,0.05,Unknown,COD,Cancelled,WhatsApp,4655.0,0,0,1,0.0,2026-04-01,Sunday,1-10%
+LM-1261,2026-04-06,Wedding Formal 3-Piece,Formal / Chiffon,13100.0,0.0,Other,COD,Delivered,Instagram,13100.0,1,0,0,13100.0,2026-04-01,Monday,No discount
+LM-1262,2026-04-06,Embroidered Lawn Suit,Lawn 3-Piece,8100.0,0.15,Faisalabad,COD,Delivered,WhatsApp,6885.0,1,0,0,6885.0,2026-04-01,Monday,11-20%
+LM-1264,2026-04-07,Chiffon Formal Suit,Formal / Chiffon,22200.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,22200.0,1,0,0,22200.0,2026-04-01,Tuesday,No discount
+LM-1263,2026-04-07,Cotton Kurti,Kurti,3400.0,0.05,Hyderabad,COD,Delivered,WhatsApp,3230.0,1,0,0,3230.0,2026-04-01,Tuesday,1-10%
+LM-1267,2026-04-08,Pret Kurta Set,Ready-to-Wear,7400.0,0.0,Rawalpindi,COD,Returned,Instagram,7400.0,0,1,0,0.0,2026-04-01,Wednesday,No discount
+LM-1265,2026-04-08,Net Embroidered Suit,Formal / Chiffon,21500.0,0.0,Karachi,COD,Returned,WhatsApp,21500.0,0,1,0,0.0,2026-04-01,Wednesday,No discount
+LM-1266,2026-04-08,Printed Lawn Suit,Lawn 3-Piece,5800.0,0.1,Multan,COD,Delivered,Facebook,5220.0,1,0,0,5220.0,2026-04-01,Wednesday,1-10%
+LM-1268,2026-04-09,Digital Print Lawn,Lawn 3-Piece,6800.0,0.0,Karachi,COD,Returned,Instagram,6800.0,0,1,0,0.0,2026-04-01,Thursday,No discount
+LM-1269,2026-04-09,Wedding Formal 3-Piece,Formal / Chiffon,17500.0,0.0,Multan,Bank Transfer,Delivered,Facebook,17500.0,1,0,0,17500.0,2026-04-01,Thursday,No discount
+LM-1271,2026-04-09,Embroidered Lawn Suit,Lawn 3-Piece,7900.0,0.0,Karachi,Bank Transfer,Delivered,WhatsApp,7900.0,1,0,0,7900.0,2026-04-01,Thursday,No discount
+LM-1270,2026-04-09,Cotton Kurti,Kurti,4300.0,0.1,Lahore,Bank Transfer,Delivered,WhatsApp,3870.0,1,0,0,3870.0,2026-04-01,Thursday,1-10%
+LM-1273,2026-04-10,Digital Print Lawn,Lawn 3-Piece,7400.0,0.0,Other,Bank Transfer,Delivered,Facebook,7400.0,1,0,0,7400.0,2026-04-01,Friday,No discount
+LM-1272,2026-04-10,Printed Kurti,Kurti,2600.0,0.05,Other,COD,Delivered,Facebook,2470.0,1,0,0,2470.0,2026-04-01,Friday,1-10%
+LM-1275,2026-04-12,Embroidered Lawn Suit,Lawn 3-Piece,6600.0,0.0,Karachi,COD,Returned,Instagram,6600.0,0,1,0,0.0,2026-04-01,Sunday,No discount
+LM-1274,2026-04-12,Digital Print Lawn,Lawn 3-Piece,7300.0,0.0,Karachi,COD,Delivered,WhatsApp,7300.0,1,0,0,7300.0,2026-04-01,Sunday,No discount
+LM-1276,2026-04-13,Printed Lawn Suit,Lawn 3-Piece,7500.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Instagram,7500.0,1,0,0,7500.0,2026-04-01,Monday,No discount
+LM-1277,2026-04-13,Embroidered Kurti,Kurti,3800.0,0.0,Other,COD,Delivered,Instagram,3800.0,1,0,0,3800.0,2026-04-01,Monday,No discount
+LM-1280,2026-04-13,Khaddar Embroidered Suit,Winter Khaddar,11400.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,11400.0,1,0,0,11400.0,2026-04-01,Monday,No discount
+LM-1281,2026-04-13,Printed Lawn Suit,Lawn 3-Piece,9100.0,0.1,Islamabad,COD,Delivered,Instagram,8190.0,1,0,0,8190.0,2026-04-01,Monday,1-10%
+LM-1279,2026-04-13,Embroidered Kurti,Kurti,3300.0,0.05,Lahore,Bank Transfer,Delivered,Referral,3135.0,1,0,0,3135.0,2026-04-01,Monday,1-10%
+LM-1278,2026-04-13,Digital Print Lawn,Lawn 3-Piece,7100.0,0.0,Karachi,COD,Delivered,Facebook,7100.0,1,0,0,7100.0,2026-04-01,Monday,No discount
+LM-1282,2026-04-14,Embroidered Lawn Suit,Lawn 3-Piece,6400.0,0.0,Karachi,Easypaisa/JazzCash,Returned,WhatsApp,6400.0,0,1,0,0.0,2026-04-01,Tuesday,No discount
+LM-1285,2026-04-14,Net Embroidered Suit,Formal / Chiffon,21100.0,0.0,Karachi,COD,Delivered,WhatsApp,21100.0,1,0,0,21100.0,2026-04-01,Tuesday,No discount
+LM-1283,2026-04-14,Embroidered Lawn Suit,Lawn 3-Piece,6100.0,0.05,Lahore,COD,Delivered,Instagram,5795.0,1,0,0,5795.0,2026-04-01,Tuesday,1-10%
+LM-1284,2026-04-14,Printed Pret 2-Piece,Ready-to-Wear,6700.0,0.1,Hyderabad,Easypaisa/JazzCash,Delivered,Instagram,6030.0,1,0,0,6030.0,2026-04-01,Tuesday,1-10%
+LM-1286,2026-04-14,Printed Lawn Suit,Lawn 3-Piece,7200.0,0.05,Karachi,COD,Delivered,Referral,6840.0,1,0,0,6840.0,2026-04-01,Tuesday,1-10%
+LM-1288,2026-04-15,Printed Lawn Suit,Lawn 3-Piece,5800.0,0.05,Islamabad,Bank Transfer,Delivered,Instagram,5510.0,1,0,0,5510.0,2026-04-01,Wednesday,1-10%
+LM-1289,2026-04-15,Net Embroidered Suit,Formal / Chiffon,14900.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Instagram,14900.0,1,0,0,14900.0,2026-04-01,Wednesday,No discount
+LM-1291,2026-04-15,Net Embroidered Suit,Formal / Chiffon,24100.0,0.15,Lahore,COD,Delivered,Instagram,20485.0,1,0,0,20485.0,2026-04-01,Wednesday,11-20%
+LM-1287,2026-04-15,Embroidered Kurti,Kurti,3000.0,0.05,Islamabad,Bank Transfer,Delivered,Instagram,2850.0,1,0,0,2850.0,2026-04-01,Wednesday,1-10%
+LM-1290,2026-04-15,Digital Print Lawn,Lawn 3-Piece,8800.0,0.15,Rawalpindi,Easypaisa/JazzCash,Delivered,WhatsApp,7480.0,1,0,0,7480.0,2026-04-01,Wednesday,11-20%
+LM-1294,2026-04-16,Printed Kurti,Kurti,3700.0,0.0,Lahore,COD,Delivered,Instagram,3700.0,1,0,0,3700.0,2026-04-01,Thursday,No discount
+LM-1293,2026-04-16,Printed Lawn Suit,Lawn 3-Piece,9200.0,0.05,Islamabad,COD,Delivered,WhatsApp,8740.0,1,0,0,8740.0,2026-04-01,Thursday,1-10%
+LM-1295,2026-04-16,Printed Pret 2-Piece,Ready-to-Wear,5900.0,0.0,Lahore,COD,Delivered,Instagram,5900.0,1,0,0,5900.0,2026-04-01,Thursday,No discount
+LM-1292,2026-04-16,Printed Kurti,Kurti,3500.0,0.0,Rawalpindi,COD,Delivered,Instagram,3500.0,1,0,0,3500.0,2026-04-01,Thursday,No discount
+LM-1297,2026-04-18,Embroidered Kurti,Kurti,4300.0,0.2,Multan,COD,Delivered,WhatsApp,3440.0,1,0,0,3440.0,2026-04-01,Saturday,11-20%
+LM-1299,2026-04-18,Embroidered Lawn Suit,Lawn 3-Piece,7300.0,0.0,Rawalpindi,COD,Delivered,WhatsApp,7300.0,1,0,0,7300.0,2026-04-01,Saturday,No discount
+LM-1296,2026-04-18,Net Embroidered Suit,Formal / Chiffon,23900.0,0.05,Karachi,COD,Cancelled,Instagram,22705.0,0,0,1,0.0,2026-04-01,Saturday,1-10%
+LM-1298,2026-04-18,Cotton Kurti,Kurti,4200.0,0.0,Other,Easypaisa/JazzCash,Delivered,WhatsApp,4200.0,1,0,0,4200.0,2026-04-01,Saturday,No discount
+LM-1301,2026-04-20,Printed Pret 2-Piece,Ready-to-Wear,5400.0,0.0,Unknown,COD,Returned,Facebook,5400.0,0,1,0,0.0,2026-04-01,Monday,No discount
+LM-1300,2026-04-20,Pret Kurta Set,Ready-to-Wear,5100.0,0.0,Karachi,COD,Delivered,Facebook,5100.0,1,0,0,5100.0,2026-04-01,Monday,No discount
+LM-1303,2026-04-21,Digital Print Lawn,Lawn 3-Piece,6100.0,0.0,Lahore,Bank Transfer,Cancelled,WhatsApp,6100.0,0,0,1,0.0,2026-04-01,Tuesday,No discount
+LM-1302,2026-04-21,Embroidered Kurti,Kurti,4400.0,0.1,Lahore,Easypaisa/JazzCash,Delivered,Instagram,3960.0,1,0,0,3960.0,2026-04-01,Tuesday,1-10%
+LM-1304,2026-04-21,Wedding Formal 3-Piece,Formal / Chiffon,20100.0,0.0,Other,COD,Delivered,WhatsApp,20100.0,1,0,0,20100.0,2026-04-01,Tuesday,No discount
+LM-1305,2026-04-23,Printed Lawn Suit,Lawn 3-Piece,8800.0,0.0,Peshawar,COD,Returned,Instagram,8800.0,0,1,0,0.0,2026-04-01,Thursday,No discount
+LM-1306,2026-04-23,Printed Pret 2-Piece,Ready-to-Wear,6900.0,0.05,Lahore,Bank Transfer,Delivered,Instagram,6555.0,1,0,0,6555.0,2026-04-01,Thursday,1-10%
+LM-1310,2026-04-25,Printed Lawn Suit,Lawn 3-Piece,6400.0,0.0,Islamabad,Bank Transfer,Delivered,Instagram,6400.0,1,0,0,6400.0,2026-04-01,Saturday,No discount
+LM-1308,2026-04-25,Printed Kurti,Kurti,4000.0,0.0,Multan,COD,Delivered,WhatsApp,4000.0,1,0,0,4000.0,2026-04-01,Saturday,No discount
+LM-1309,2026-04-25,Embroidered Lawn Suit,Lawn 3-Piece,8600.0,0.0,Lahore,COD,Returned,Referral,8600.0,0,1,0,0.0,2026-04-01,Saturday,No discount
+LM-1307,2026-04-25,Net Embroidered Suit,Formal / Chiffon,13400.0,0.2,Islamabad,COD,Delivered,Facebook,10720.0,1,0,0,10720.0,2026-04-01,Saturday,11-20%
+LM-1311,2026-04-25,Printed Kurti,Kurti,4200.0,0.0,Hyderabad,Easypaisa/JazzCash,Delivered,Facebook,4200.0,1,0,0,4200.0,2026-04-01,Saturday,No discount
+LM-1314,2026-04-28,Embroidered Lawn Suit,Lawn 3-Piece,7000.0,0.0,Karachi,COD,Delivered,Instagram,7000.0,1,0,0,7000.0,2026-04-01,Tuesday,No discount
+LM-1313,2026-04-28,Digital Print Lawn,Lawn 3-Piece,6900.0,0.1,Lahore,Bank Transfer,Delivered,Instagram,6210.0,1,0,0,6210.0,2026-04-01,Tuesday,1-10%
+LM-1312,2026-04-28,Printed Kurti,Kurti,2800.0,0.0,Faisalabad,COD,Delivered,WhatsApp,2800.0,1,0,0,2800.0,2026-04-01,Tuesday,No discount
+LM-1315,2026-04-28,Chiffon Formal Suit,Formal / Chiffon,12100.0,0.0,Unknown,COD,Delivered,Instagram,12100.0,1,0,0,12100.0,2026-04-01,Tuesday,No discount
+LM-1316,2026-04-28,Printed Lawn Suit,Lawn 3-Piece,5700.0,0.05,Other,COD,Delivered,Instagram,5415.0,1,0,0,5415.0,2026-04-01,Tuesday,1-10%
+LM-1317,2026-05-01,Embroidered Lawn Suit,Lawn 3-Piece,8800.0,0.0,Karachi,COD,Delivered,Instagram,8800.0,1,0,0,8800.0,2026-05-01,Friday,No discount
+LM-1318,2026-05-01,Printed Pret 2-Piece,Ready-to-Wear,4300.0,0.0,Faisalabad,COD,Delivered,Instagram,4300.0,1,0,0,4300.0,2026-05-01,Friday,No discount
+LM-1320,2026-05-02,Net Embroidered Suit,Formal / Chiffon,16500.0,0.05,Lahore,Bank Transfer,Delivered,Instagram,15675.0,1,0,0,15675.0,2026-05-01,Saturday,1-10%
+LM-1319,2026-05-02,Printed Pret 2-Piece,Ready-to-Wear,6100.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Referral,6100.0,1,0,0,6100.0,2026-05-01,Saturday,No discount
+LM-1321,2026-05-02,Chiffon Formal Suit,Formal / Chiffon,17000.0,0.0,Islamabad,COD,Delivered,Referral,17000.0,1,0,0,17000.0,2026-05-01,Saturday,No discount
+LM-1322,2026-05-02,Co-ord Set,Ready-to-Wear,6800.0,0.0,Karachi,Bank Transfer,Delivered,WhatsApp,6800.0,1,0,0,6800.0,2026-05-01,Saturday,No discount
+LM-1323,2026-05-03,Printed Lawn Suit,Lawn 3-Piece,7600.0,0.0,Other,Easypaisa/JazzCash,Delivered,Referral,7600.0,1,0,0,7600.0,2026-05-01,Sunday,No discount
+LM-1324,2026-05-04,Cotton Kurti,Kurti,2800.0,0.15,Karachi,Easypaisa/JazzCash,Delivered,Instagram,2380.0,1,0,0,2380.0,2026-05-01,Monday,11-20%
+LM-1325,2026-05-05,Chiffon Formal Suit,Formal / Chiffon,15400.0,0.05,Peshawar,COD,Returned,WhatsApp,14630.0,0,1,0,0.0,2026-05-01,Tuesday,1-10%
+LM-1326,2026-05-05,Embroidered Lawn Suit,Lawn 3-Piece,5800.0,0.05,Lahore,COD,Delivered,Instagram,5510.0,1,0,0,5510.0,2026-05-01,Tuesday,1-10%
+LM-1327,2026-05-05,Co-ord Set,Ready-to-Wear,3600.0,0.1,Hyderabad,COD,Delivered,Instagram,3240.0,1,0,0,3240.0,2026-05-01,Tuesday,1-10%
+LM-1330,2026-05-06,Digital Print Lawn,Lawn 3-Piece,7900.0,0.0,Multan,COD,Delivered,Facebook,7900.0,1,0,0,7900.0,2026-05-01,Wednesday,No discount
+LM-1333,2026-05-06,Pret Kurta Set,Ready-to-Wear,5600.0,0.0,Lahore,Easypaisa/JazzCash,Returned,Instagram,5600.0,0,1,0,0.0,2026-05-01,Wednesday,No discount
+LM-1331,2026-05-06,Printed Lawn Suit,Lawn 3-Piece,6900.0,0.05,Karachi,COD,Delivered,Instagram,6555.0,1,0,0,6555.0,2026-05-01,Wednesday,1-10%
+LM-1332,2026-05-06,Co-ord Set,Ready-to-Wear,6200.0,0.0,Multan,COD,Delivered,WhatsApp,6200.0,1,0,0,6200.0,2026-05-01,Wednesday,No discount
+LM-1328,2026-05-06,Co-ord Set,Ready-to-Wear,7000.0,0.0,Other,COD,Delivered,WhatsApp,7000.0,1,0,0,7000.0,2026-05-01,Wednesday,No discount
+LM-1329,2026-05-06,Printed Pret 2-Piece,Ready-to-Wear,5400.0,0.05,Karachi,COD,Delivered,Instagram,5130.0,1,0,0,5130.0,2026-05-01,Wednesday,1-10%
+LM-1335,2026-05-07,Printed Kurti,Kurti,4300.0,0.1,Lahore,COD,Delivered,Instagram,3870.0,1,0,0,3870.0,2026-05-01,Thursday,1-10%
+LM-1334,2026-05-07,Co-ord Set,Ready-to-Wear,5600.0,0.05,Karachi,Easypaisa/JazzCash,Delivered,Facebook,5320.0,1,0,0,5320.0,2026-05-01,Thursday,1-10%
+LM-1336,2026-05-07,Wedding Formal 3-Piece,Formal / Chiffon,14500.0,0.0,Multan,COD,Delivered,Facebook,14500.0,1,0,0,14500.0,2026-05-01,Thursday,No discount
+LM-1339,2026-05-08,Net Embroidered Suit,Formal / Chiffon,15300.0,0.0,Islamabad,Bank Transfer,Delivered,Facebook,15300.0,1,0,0,15300.0,2026-05-01,Friday,No discount
+LM-1338,2026-05-08,Embroidered Kurti,Kurti,4400.0,0.0,Other,COD,Returned,Facebook,4400.0,0,1,0,0.0,2026-05-01,Friday,No discount
+LM-1340,2026-05-08,Embroidered Lawn Suit,Lawn 3-Piece,6400.0,0.0,Karachi,COD,Delivered,Instagram,6400.0,1,0,0,6400.0,2026-05-01,Friday,No discount
+LM-1337,2026-05-08,Digital Print Lawn,Lawn 3-Piece,5800.0,0.1,Hyderabad,COD,Returned,Instagram,5220.0,0,1,0,0.0,2026-05-01,Friday,1-10%
+LM-1343,2026-05-09,Khaddar Embroidered Suit,Winter Khaddar,9900.0,0.15,Lahore,COD,Delivered,WhatsApp,8415.0,1,0,0,8415.0,2026-05-01,Saturday,11-20%
+LM-1342,2026-05-09,Cotton Kurti,Kurti,2600.0,0.0,Islamabad,COD,Delivered,Facebook,2600.0,1,0,0,2600.0,2026-05-01,Saturday,No discount
+LM-1341,2026-05-09,Pret Kurta Set,Ready-to-Wear,6600.0,0.0,Karachi,COD,Delivered,Referral,6600.0,1,0,0,6600.0,2026-05-01,Saturday,No discount
+LM-1345,2026-05-09,Embroidered Lawn Suit,Lawn 3-Piece,7200.0,0.2,Rawalpindi,Easypaisa/JazzCash,Delivered,Facebook,5760.0,1,0,0,5760.0,2026-05-01,Saturday,11-20%
+LM-1344,2026-05-09,Printed Lawn Suit,Lawn 3-Piece,7000.0,0.05,Karachi,COD,Delivered,Instagram,6650.0,1,0,0,6650.0,2026-05-01,Saturday,1-10%
+LM-1349,2026-05-10,Wedding Formal 3-Piece,Formal / Chiffon,14500.0,0.0,Peshawar,COD,Delivered,Instagram,14500.0,1,0,0,14500.0,2026-05-01,Sunday,No discount
+LM-1346,2026-05-10,Embroidered Kurti,Kurti,4200.0,0.15,Lahore,COD,Delivered,WhatsApp,3570.0,1,0,0,3570.0,2026-05-01,Sunday,11-20%
+LM-1348,2026-05-10,Digital Print Lawn,Lawn 3-Piece,7400.0,0.05,Lahore,COD,Returned,Referral,7030.0,0,1,0,0.0,2026-05-01,Sunday,1-10%
+LM-1347,2026-05-10,Net Embroidered Suit,Formal / Chiffon,19300.0,0.0,Peshawar,COD,Delivered,WhatsApp,19300.0,1,0,0,19300.0,2026-05-01,Sunday,No discount
+LM-1352,2026-05-11,Pret Kurta Set,Ready-to-Wear,6700.0,0.05,Rawalpindi,COD,Delivered,Instagram,6365.0,1,0,0,6365.0,2026-05-01,Monday,1-10%
+LM-1350,2026-05-11,Embroidered Kurti,Kurti,3500.0,0.1,Rawalpindi,COD,Delivered,Instagram,3150.0,1,0,0,3150.0,2026-05-01,Monday,1-10%
+LM-1351,2026-05-11,Embroidered Lawn Suit,Lawn 3-Piece,7700.0,0.0,Lahore,Bank Transfer,Delivered,Instagram,7700.0,1,0,0,7700.0,2026-05-01,Monday,No discount
+LM-1353,2026-05-12,Wedding Formal 3-Piece,Formal / Chiffon,17100.0,0.0,Karachi,COD,Delivered,Instagram,17100.0,1,0,0,17100.0,2026-05-01,Tuesday,No discount
+LM-1354,2026-05-14,Printed Kurti,Kurti,3500.0,0.1,Karachi,COD,Delivered,WhatsApp,3150.0,1,0,0,3150.0,2026-05-01,Thursday,1-10%
+LM-1357,2026-05-15,Net Embroidered Suit,Formal / Chiffon,23000.0,0.0,Lahore,COD,Delivered,WhatsApp,23000.0,1,0,0,23000.0,2026-05-01,Friday,No discount
+LM-1358,2026-05-15,Printed Lawn Suit,Lawn 3-Piece,9200.0,0.0,Lahore,COD,Cancelled,WhatsApp,9200.0,0,0,1,0.0,2026-05-01,Friday,No discount
+LM-1356,2026-05-15,Printed Lawn Suit,Lawn 3-Piece,8500.0,0.1,Faisalabad,COD,Delivered,Instagram,7650.0,1,0,0,7650.0,2026-05-01,Friday,1-10%
+LM-1355,2026-05-15,Pret Kurta Set,Ready-to-Wear,5400.0,0.0,Lahore,Bank Transfer,Delivered,Instagram,5400.0,1,0,0,5400.0,2026-05-01,Friday,No discount
+LM-1359,2026-05-16,Wedding Formal 3-Piece,Formal / Chiffon,18100.0,0.15,Rawalpindi,COD,Delivered,Referral,15385.0,1,0,0,15385.0,2026-05-01,Saturday,11-20%
+LM-1360,2026-05-16,Printed Pret 2-Piece,Ready-to-Wear,5500.0,0.05,Islamabad,COD,Delivered,Instagram,5225.0,1,0,0,5225.0,2026-05-01,Saturday,1-10%
+LM-1362,2026-05-16,Wedding Formal 3-Piece,Formal / Chiffon,26400.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,26400.0,1,0,0,26400.0,2026-05-01,Saturday,No discount
+LM-1361,2026-05-16,Printed Pret 2-Piece,Ready-to-Wear,6300.0,0.1,Lahore,Bank Transfer,Delivered,Referral,5670.0,1,0,0,5670.0,2026-05-01,Saturday,1-10%
+LM-1363,2026-05-17,Digital Print Lawn,Lawn 3-Piece,8400.0,0.0,Other,COD,Delivered,Facebook,8400.0,1,0,0,8400.0,2026-05-01,Sunday,No discount
+LM-1364,2026-05-18,Winter Printed Suit,Winter Khaddar,7600.0,0.0,Karachi,COD,Cancelled,Referral,7600.0,0,0,1,0.0,2026-05-01,Monday,No discount
+LM-1365,2026-05-19,Pret Kurta Set,Ready-to-Wear,4800.0,0.0,Unknown,COD,Delivered,Facebook,4800.0,1,0,0,4800.0,2026-05-01,Tuesday,No discount
+LM-1366,2026-05-20,Co-ord Set,Ready-to-Wear,5300.0,0.15,Faisalabad,Easypaisa/JazzCash,Delivered,Facebook,4505.0,1,0,0,4505.0,2026-05-01,Wednesday,11-20%
+LM-1368,2026-05-21,Net Embroidered Suit,Formal / Chiffon,25400.0,0.0,Karachi,COD,Delivered,WhatsApp,25400.0,1,0,0,25400.0,2026-05-01,Thursday,No discount
+LM-1367,2026-05-21,Embroidered Lawn Suit,Lawn 3-Piece,8100.0,0.0,Rawalpindi,Bank Transfer,Delivered,Facebook,8100.0,1,0,0,8100.0,2026-05-01,Thursday,No discount
+LM-1369,2026-05-22,Embroidered Kurti,Kurti,3400.0,0.05,Rawalpindi,COD,Delivered,Facebook,3230.0,1,0,0,3230.0,2026-05-01,Friday,1-10%
+LM-1370,2026-05-22,Co-ord Set,Ready-to-Wear,6000.0,0.05,Islamabad,COD,Delivered,WhatsApp,5700.0,1,0,0,5700.0,2026-05-01,Friday,1-10%
+LM-1372,2026-05-22,Winter Printed Suit,Winter Khaddar,8100.0,0.0,Karachi,COD,Delivered,Instagram,8100.0,1,0,0,8100.0,2026-05-01,Friday,No discount
+LM-1371,2026-05-22,Printed Lawn Suit,Lawn 3-Piece,8500.0,0.0,Lahore,COD,Delivered,Instagram,8500.0,1,0,0,8500.0,2026-05-01,Friday,No discount
+LM-1375,2026-05-23,Embroidered Lawn Suit,Lawn 3-Piece,5800.0,0.0,Lahore,Bank Transfer,Delivered,Instagram,5800.0,1,0,0,5800.0,2026-05-01,Saturday,No discount
+LM-1374,2026-05-23,Embroidered Lawn Suit,Lawn 3-Piece,7100.0,0.1,Karachi,COD,Delivered,Facebook,6390.0,1,0,0,6390.0,2026-05-01,Saturday,1-10%
+LM-1376,2026-05-23,Printed Lawn Suit,Lawn 3-Piece,6400.0,0.1,Lahore,COD,Delivered,WhatsApp,5760.0,1,0,0,5760.0,2026-05-01,Saturday,1-10%
+LM-1373,2026-05-23,Printed Lawn Suit,Lawn 3-Piece,8300.0,0.0,Karachi,COD,Returned,Instagram,8300.0,0,1,0,0.0,2026-05-01,Saturday,No discount
+LM-1377,2026-05-25,Printed Kurti,Kurti,2800.0,0.0,Karachi,COD,Delivered,Instagram,2800.0,1,0,0,2800.0,2026-05-01,Monday,No discount
+LM-1380,2026-05-26,Net Embroidered Suit,Formal / Chiffon,21600.0,0.1,Karachi,COD,Delivered,Instagram,19440.0,1,0,0,19440.0,2026-05-01,Tuesday,1-10%
+LM-1379,2026-05-26,Pret Kurta Set,Ready-to-Wear,6900.0,0.0,Peshawar,Easypaisa/JazzCash,Delivered,Referral,6900.0,1,0,0,6900.0,2026-05-01,Tuesday,No discount
+LM-1378,2026-05-26,Cotton Kurti,Kurti,4500.0,0.0,Peshawar,COD,Delivered,Facebook,4500.0,1,0,0,4500.0,2026-05-01,Tuesday,No discount
+LM-1381,2026-05-27,Embroidered Lawn Suit,Lawn 3-Piece,6500.0,0.15,Karachi,COD,Returned,WhatsApp,5525.0,0,1,0,0.0,2026-05-01,Wednesday,11-20%
+LM-1382,2026-05-28,Net Embroidered Suit,Formal / Chiffon,26600.0,0.0,Multan,COD,Delivered,Instagram,26600.0,1,0,0,26600.0,2026-05-01,Thursday,No discount
+LM-1385,2026-06-01,Printed Lawn Suit,Lawn 3-Piece,8100.0,0.0,Rawalpindi,COD,Delivered,Facebook,8100.0,1,0,0,8100.0,2026-06-01,Monday,No discount
+LM-1383,2026-06-01,Printed Lawn Suit,Lawn 3-Piece,6000.0,0.0,Hyderabad,COD,Cancelled,Instagram,6000.0,0,0,1,0.0,2026-06-01,Monday,No discount
+LM-1384,2026-06-01,Wedding Formal 3-Piece,Formal / Chiffon,23500.0,0.0,Islamabad,COD,Delivered,WhatsApp,23500.0,1,0,0,23500.0,2026-06-01,Monday,No discount
+LM-1386,2026-06-02,Wedding Formal 3-Piece,Formal / Chiffon,25700.0,0.0,Unknown,COD,Delivered,Facebook,25700.0,1,0,0,25700.0,2026-06-01,Tuesday,No discount
+LM-1388,2026-06-04,Printed Kurti,Kurti,3600.0,0.0,Karachi,COD,Delivered,Instagram,3600.0,1,0,0,3600.0,2026-06-01,Thursday,No discount
+LM-1387,2026-06-04,Printed Kurti,Kurti,2800.0,0.0,Karachi,COD,Delivered,Instagram,2800.0,1,0,0,2800.0,2026-06-01,Thursday,No discount
+LM-1389,2026-06-06,Pret Kurta Set,Ready-to-Wear,7100.0,0.0,Lahore,Bank Transfer,Delivered,Facebook,7100.0,1,0,0,7100.0,2026-06-01,Saturday,No discount
+LM-1390,2026-06-06,Embroidered Lawn Suit,Lawn 3-Piece,7000.0,0.0,Hyderabad,COD,Delivered,WhatsApp,7000.0,1,0,0,7000.0,2026-06-01,Saturday,No discount
+LM-1391,2026-06-08,Printed Kurti,Kurti,2700.0,0.1,Rawalpindi,COD,Delivered,Referral,2430.0,1,0,0,2430.0,2026-06-01,Monday,1-10%
+LM-1392,2026-06-08,Embroidered Lawn Suit,Lawn 3-Piece,7200.0,0.0,Karachi,COD,Returned,Instagram,7200.0,0,1,0,0.0,2026-06-01,Monday,No discount
+LM-1393,2026-06-08,Digital Print Lawn,Lawn 3-Piece,7800.0,0.0,Karachi,COD,Delivered,Instagram,7800.0,1,0,0,7800.0,2026-06-01,Monday,No discount
+LM-1394,2026-06-10,Embroidered Lawn Suit,Lawn 3-Piece,8900.0,0.0,Karachi,Easypaisa/JazzCash,Returned,WhatsApp,8900.0,0,1,0,0.0,2026-06-01,Wednesday,No discount
+LM-1395,2026-06-10,Embroidered Lawn Suit,Lawn 3-Piece,7700.0,0.05,Karachi,COD,Delivered,WhatsApp,7315.0,1,0,0,7315.0,2026-06-01,Wednesday,1-10%
+LM-1396,2026-06-11,Printed Lawn Suit,Lawn 3-Piece,7300.0,0.0,Lahore,COD,Delivered,WhatsApp,7300.0,1,0,0,7300.0,2026-06-01,Thursday,No discount
+LM-1397,2026-06-11,Chiffon Formal Suit,Formal / Chiffon,21200.0,0.0,Lahore,COD,Delivered,WhatsApp,21200.0,1,0,0,21200.0,2026-06-01,Thursday,No discount
+LM-1399,2026-06-12,Co-ord Set,Ready-to-Wear,4300.0,0.0,Hyderabad,COD,Returned,WhatsApp,4300.0,0,1,0,0.0,2026-06-01,Friday,No discount
+LM-1398,2026-06-12,Karandi 3-Piece,Winter Khaddar,10200.0,0.0,Rawalpindi,COD,Returned,WhatsApp,10200.0,0,1,0,0.0,2026-06-01,Friday,No discount
+LM-1400,2026-06-12,Digital Print Lawn,Lawn 3-Piece,9500.0,0.0,Lahore,COD,Returned,Instagram,9500.0,0,1,0,0.0,2026-06-01,Friday,No discount
+LM-1401,2026-06-15,Khaddar Embroidered Suit,Winter Khaddar,11200.0,0.1,Lahore,COD,Delivered,Facebook,10080.0,1,0,0,10080.0,2026-06-01,Monday,1-10%
+LM-1402,2026-06-15,Co-ord Set,Ready-to-Wear,4400.0,0.0,Rawalpindi,COD,Delivered,Instagram,4400.0,1,0,0,4400.0,2026-06-01,Monday,No discount
+LM-1404,2026-06-16,Cotton Kurti,Kurti,4200.0,0.15,Lahore,COD,Delivered,Facebook,3570.0,1,0,0,3570.0,2026-06-01,Tuesday,11-20%
+LM-1405,2026-06-16,Cotton Kurti,Kurti,3900.0,0.0,Lahore,COD,Delivered,WhatsApp,3900.0,1,0,0,3900.0,2026-06-01,Tuesday,No discount
+LM-1403,2026-06-16,Co-ord Set,Ready-to-Wear,5800.0,0.0,Multan,COD,Delivered,Instagram,5800.0,1,0,0,5800.0,2026-06-01,Tuesday,No discount
+LM-1406,2026-06-17,Pret Kurta Set,Ready-to-Wear,4500.0,0.0,Faisalabad,Easypaisa/JazzCash,Delivered,WhatsApp,4500.0,1,0,0,4500.0,2026-06-01,Wednesday,No discount
+LM-1408,2026-06-18,Printed Kurti,Kurti,3000.0,0.0,Hyderabad,COD,Delivered,Instagram,3000.0,1,0,0,3000.0,2026-06-01,Thursday,No discount
+LM-1407,2026-06-18,Printed Pret 2-Piece,Ready-to-Wear,3700.0,0.0,Lahore,COD,Delivered,Instagram,3700.0,1,0,0,3700.0,2026-06-01,Thursday,No discount
+LM-1409,2026-06-19,Embroidered Lawn Suit,Lawn 3-Piece,9100.0,0.1,Karachi,Bank Transfer,Delivered,Instagram,8190.0,1,0,0,8190.0,2026-06-01,Friday,1-10%
+LM-1410,2026-06-21,Digital Print Lawn,Lawn 3-Piece,7700.0,0.0,Multan,Bank Transfer,Delivered,Instagram,7700.0,1,0,0,7700.0,2026-06-01,Sunday,No discount
+LM-1411,2026-06-23,Digital Print Lawn,Lawn 3-Piece,8500.0,0.0,Rawalpindi,COD,Delivered,Facebook,8500.0,1,0,0,8500.0,2026-06-01,Tuesday,No discount
+LM-1413,2026-06-23,Embroidered Lawn Suit,Lawn 3-Piece,9400.0,0.0,Karachi,COD,Returned,Facebook,9400.0,0,1,0,0.0,2026-06-01,Tuesday,No discount
+LM-1412,2026-06-23,Digital Print Lawn,Lawn 3-Piece,6400.0,0.0,Lahore,COD,Delivered,Referral,6400.0,1,0,0,6400.0,2026-06-01,Tuesday,No discount
+LM-1415,2026-06-24,Embroidered Kurti,Kurti,3000.0,0.0,Faisalabad,COD,Delivered,WhatsApp,3000.0,1,0,0,3000.0,2026-06-01,Wednesday,No discount
+LM-1414,2026-06-24,Pret Kurta Set,Ready-to-Wear,5400.0,0.1,Lahore,COD,Delivered,Instagram,4860.0,1,0,0,4860.0,2026-06-01,Wednesday,1-10%
+LM-1416,2026-06-25,Embroidered Lawn Suit,Lawn 3-Piece,8300.0,0.15,Rawalpindi,COD,Delivered,Referral,7055.0,1,0,0,7055.0,2026-06-01,Thursday,11-20%
+LM-1417,2026-06-25,Wedding Formal 3-Piece,Formal / Chiffon,16600.0,0.15,Karachi,Bank Transfer,Delivered,Instagram,14110.0,1,0,0,14110.0,2026-06-01,Thursday,11-20%
+LM-1418,2026-06-25,Printed Lawn Suit,Lawn 3-Piece,9300.0,0.15,Other,COD,Delivered,Instagram,7905.0,1,0,0,7905.0,2026-06-01,Thursday,11-20%
+LM-1419,2026-06-26,Embroidered Lawn Suit,Lawn 3-Piece,7200.0,0.0,Islamabad,Easypaisa/JazzCash,Delivered,Instagram,7200.0,1,0,0,7200.0,2026-06-01,Friday,No discount
+LM-1421,2026-06-27,Embroidered Lawn Suit,Lawn 3-Piece,7200.0,0.0,Lahore,COD,Delivered,Instagram,7200.0,1,0,0,7200.0,2026-06-01,Saturday,No discount
+LM-1420,2026-06-27,Pret Kurta Set,Ready-to-Wear,6300.0,0.0,Karachi,COD,Delivered,Instagram,6300.0,1,0,0,6300.0,2026-06-01,Saturday,No discount
+LM-1423,2026-06-28,Digital Print Lawn,Lawn 3-Piece,7200.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,Instagram,7200.0,1,0,0,7200.0,2026-06-01,Sunday,No discount
+LM-1422,2026-06-28,Chiffon Formal Suit,Formal / Chiffon,24900.0,0.05,Faisalabad,COD,Cancelled,Facebook,23655.0,0,0,1,0.0,2026-06-01,Sunday,1-10%
+LM-1424,2026-07-01,Embroidered Lawn Suit,Lawn 3-Piece,8200.0,0.2,Lahore,Bank Transfer,Delivered,WhatsApp,6560.0,1,0,0,6560.0,2026-07-01,Wednesday,11-20%
+LM-1425,2026-07-03,Digital Print Lawn,Lawn 3-Piece,8000.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Instagram,8000.0,1,0,0,8000.0,2026-07-01,Friday,No discount
+LM-1428,2026-07-05,Cotton Kurti,Kurti,2800.0,0.0,Peshawar,COD,Returned,WhatsApp,2800.0,0,1,0,0.0,2026-07-01,Sunday,No discount
+LM-1426,2026-07-05,Digital Print Lawn,Lawn 3-Piece,8500.0,0.2,Lahore,COD,Delivered,Instagram,6800.0,1,0,0,6800.0,2026-07-01,Sunday,11-20%
+LM-1427,2026-07-05,Digital Print Lawn,Lawn 3-Piece,7700.0,0.05,Faisalabad,COD,Returned,WhatsApp,7315.0,0,1,0,0.0,2026-07-01,Sunday,1-10%
+LM-1429,2026-07-06,Embroidered Kurti,Kurti,3200.0,0.1,Karachi,COD,Delivered,Instagram,2880.0,1,0,0,2880.0,2026-07-01,Monday,1-10%
+LM-1430,2026-07-07,Printed Lawn Suit,Lawn 3-Piece,5500.0,0.1,Lahore,COD,Delivered,Instagram,4950.0,1,0,0,4950.0,2026-07-01,Tuesday,1-10%
+LM-1432,2026-07-08,Printed Pret 2-Piece,Ready-to-Wear,5300.0,0.2,Islamabad,COD,Delivered,WhatsApp,4240.0,1,0,0,4240.0,2026-07-01,Wednesday,11-20%
+LM-1431,2026-07-08,Net Embroidered Suit,Formal / Chiffon,22700.0,0.15,Lahore,COD,Returned,WhatsApp,19295.0,0,1,0,0.0,2026-07-01,Wednesday,11-20%
+LM-1434,2026-07-08,Embroidered Lawn Suit,Lawn 3-Piece,6300.0,0.05,Lahore,Bank Transfer,Delivered,Instagram,5985.0,1,0,0,5985.0,2026-07-01,Wednesday,1-10%
+LM-1433,2026-07-08,Cotton Kurti,Kurti,2600.0,0.15,Karachi,COD,Returned,Facebook,2210.0,0,1,0,0.0,2026-07-01,Wednesday,11-20%
+LM-1435,2026-07-09,Digital Print Lawn,Lawn 3-Piece,8100.0,0.2,Lahore,COD,Cancelled,WhatsApp,6480.0,0,0,1,0.0,2026-07-01,Thursday,11-20%
+LM-1437,2026-07-10,Digital Print Lawn,Lawn 3-Piece,5700.0,0.3,Lahore,COD,Delivered,WhatsApp,3989.9999999999995,1,0,0,3989.9999999999995,2026-07-01,Friday,Over 20%
+LM-1436,2026-07-10,Digital Print Lawn,Lawn 3-Piece,8300.0,0.3,Faisalabad,COD,Delivered,Facebook,5810.0,1,0,0,5810.0,2026-07-01,Friday,Over 20%
+LM-1438,2026-07-11,Digital Print Lawn,Lawn 3-Piece,7800.0,0.05,Karachi,COD,Delivered,Instagram,7410.0,1,0,0,7410.0,2026-07-01,Saturday,1-10%
+LM-1439,2026-07-13,Embroidered Lawn Suit,Lawn 3-Piece,9100.0,0.2,Unknown,COD,Cancelled,Instagram,7280.0,0,0,1,0.0,2026-07-01,Monday,11-20%
+LM-1440,2026-07-13,Co-ord Set,Ready-to-Wear,7200.0,0.3,Karachi,COD,Delivered,Facebook,5040.0,1,0,0,5040.0,2026-07-01,Monday,Over 20%
+LM-1441,2026-07-15,Embroidered Kurti,Kurti,3400.0,0.0,Karachi,COD,Delivered,Instagram,3400.0,1,0,0,3400.0,2026-07-01,Wednesday,No discount
+LM-1442,2026-07-15,Printed Lawn Suit,Lawn 3-Piece,7000.0,0.1,Peshawar,COD,Delivered,Instagram,6300.0,1,0,0,6300.0,2026-07-01,Wednesday,1-10%
+LM-1443,2026-07-16,Cotton Kurti,Kurti,2700.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Facebook,2700.0,1,0,0,2700.0,2026-07-01,Thursday,No discount
+LM-1444,2026-07-17,Co-ord Set,Ready-to-Wear,5200.0,0.15,Karachi,COD,Returned,Instagram,4420.0,0,1,0,0.0,2026-07-01,Friday,11-20%
+LM-1445,2026-07-18,Embroidered Lawn Suit,Lawn 3-Piece,6200.0,0.05,Other,COD,Delivered,Instagram,5890.0,1,0,0,5890.0,2026-07-01,Saturday,1-10%
+LM-1446,2026-07-19,Co-ord Set,Ready-to-Wear,5200.0,0.15,Karachi,COD,Returned,WhatsApp,4420.0,0,1,0,0.0,2026-07-01,Sunday,11-20%
+LM-1447,2026-07-20,Digital Print Lawn,Lawn 3-Piece,6200.0,0.0,Islamabad,COD,Delivered,Instagram,6200.0,1,0,0,6200.0,2026-07-01,Monday,No discount
+LM-1448,2026-07-20,Cotton Kurti,Kurti,3000.0,0.1,Lahore,COD,Delivered,WhatsApp,2700.0,1,0,0,2700.0,2026-07-01,Monday,1-10%
+LM-1449,2026-07-21,Co-ord Set,Ready-to-Wear,4900.0,0.15,Karachi,COD,Delivered,WhatsApp,4165.0,1,0,0,4165.0,2026-07-01,Tuesday,11-20%
+LM-1451,2026-07-22,Digital Print Lawn,Lawn 3-Piece,8500.0,0.1,Lahore,COD,Delivered,WhatsApp,7650.0,1,0,0,7650.0,2026-07-01,Wednesday,1-10%
+LM-1450,2026-07-22,Co-ord Set,Ready-to-Wear,4200.0,0.0,Karachi,COD,Delivered,Facebook,4200.0,1,0,0,4200.0,2026-07-01,Wednesday,No discount
+LM-1453,2026-07-22,Printed Pret 2-Piece,Ready-to-Wear,6100.0,0.05,Rawalpindi,Easypaisa/JazzCash,Delivered,Referral,5795.0,1,0,0,5795.0,2026-07-01,Wednesday,1-10%
+LM-1452,2026-07-22,Printed Lawn Suit,Lawn 3-Piece,7200.0,0.15,Other,COD,Delivered,Facebook,6120.0,1,0,0,6120.0,2026-07-01,Wednesday,11-20%
+LM-1454,2026-07-24,Printed Pret 2-Piece,Ready-to-Wear,7000.0,0.15,Karachi,Bank Transfer,Delivered,WhatsApp,5950.0,1,0,0,5950.0,2026-07-01,Friday,11-20%
+LM-1455,2026-07-26,Wedding Formal 3-Piece,Formal / Chiffon,26200.0,0.1,Multan,COD,Cancelled,Instagram,23580.0,0,0,1,0.0,2026-07-01,Sunday,1-10%
+LM-1456,2026-07-26,Printed Pret 2-Piece,Ready-to-Wear,6800.0,0.2,Faisalabad,Easypaisa/JazzCash,Delivered,WhatsApp,5440.0,1,0,0,5440.0,2026-07-01,Sunday,11-20%
+LM-1457,2026-07-28,Printed Lawn Suit,Lawn 3-Piece,8400.0,0.1,Islamabad,Bank Transfer,Delivered,Facebook,7560.0,1,0,0,7560.0,2026-07-01,Tuesday,1-10%
+LM-1458,2026-08-02,Embroidered Lawn Suit,Lawn 3-Piece,7300.0,0.1,Islamabad,Easypaisa/JazzCash,Delivered,Instagram,6570.0,1,0,0,6570.0,2026-08-01,Sunday,1-10%
+LM-1460,2026-08-03,Pret Kurta Set,Ready-to-Wear,5800.0,0.2,Lahore,COD,Delivered,Facebook,4640.0,1,0,0,4640.0,2026-08-01,Monday,11-20%
+LM-1459,2026-08-03,Pret Kurta Set,Ready-to-Wear,6800.0,0.15,Karachi,COD,Returned,Instagram,5780.0,0,1,0,0.0,2026-08-01,Monday,11-20%
+LM-1462,2026-08-05,Printed Lawn Suit,Lawn 3-Piece,8400.0,0.1,Hyderabad,COD,Delivered,Instagram,7560.0,1,0,0,7560.0,2026-08-01,Wednesday,1-10%
+LM-1461,2026-08-05,Printed Pret 2-Piece,Ready-to-Wear,6500.0,0.1,Hyderabad,Bank Transfer,Delivered,Facebook,5850.0,1,0,0,5850.0,2026-08-01,Wednesday,1-10%
+LM-1463,2026-08-06,Printed Pret 2-Piece,Ready-to-Wear,4000.0,0.05,Other,COD,Delivered,Instagram,3800.0,1,0,0,3800.0,2026-08-01,Thursday,1-10%
+LM-1465,2026-08-07,Cotton Kurti,Kurti,4100.0,0.0,Hyderabad,COD,Delivered,Instagram,4100.0,1,0,0,4100.0,2026-08-01,Friday,No discount
+LM-1464,2026-08-07,Digital Print Lawn,Lawn 3-Piece,7600.0,0.1,Lahore,Bank Transfer,Returned,WhatsApp,6840.0,0,1,0,0.0,2026-08-01,Friday,1-10%
+LM-1467,2026-08-08,Pret Kurta Set,Ready-to-Wear,6000.0,0.0,Karachi,COD,Delivered,Facebook,6000.0,1,0,0,6000.0,2026-08-01,Saturday,No discount
+LM-1466,2026-08-08,Co-ord Set,Ready-to-Wear,6600.0,0.1,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,5940.0,1,0,0,5940.0,2026-08-01,Saturday,1-10%
+LM-1468,2026-08-09,Printed Lawn Suit,Lawn 3-Piece,6100.0,0.3,Karachi,COD,Delivered,Instagram,4270.0,1,0,0,4270.0,2026-08-01,Sunday,Over 20%
+LM-1469,2026-08-10,Net Embroidered Suit,Formal / Chiffon,15900.0,0.0,Lahore,COD,Returned,Facebook,15900.0,0,1,0,0.0,2026-08-01,Monday,No discount
+LM-1470,2026-08-10,Embroidered Lawn Suit,Lawn 3-Piece,7500.0,0.0,Lahore,COD,Delivered,WhatsApp,7500.0,1,0,0,7500.0,2026-08-01,Monday,No discount
+LM-1471,2026-08-11,Co-ord Set,Ready-to-Wear,6400.0,0.1,Lahore,COD,Delivered,Instagram,5760.0,1,0,0,5760.0,2026-08-01,Tuesday,1-10%
+LM-1472,2026-08-12,Co-ord Set,Ready-to-Wear,5900.0,0.2,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,4720.0,1,0,0,4720.0,2026-08-01,Wednesday,11-20%
+LM-1474,2026-08-13,Printed Pret 2-Piece,Ready-to-Wear,7000.0,0.0,Lahore,COD,Delivered,Instagram,7000.0,1,0,0,7000.0,2026-08-01,Thursday,No discount
+LM-1473,2026-08-13,Chiffon Formal Suit,Formal / Chiffon,24500.0,0.1,Karachi,COD,Delivered,Referral,22050.0,1,0,0,22050.0,2026-08-01,Thursday,1-10%
+LM-1475,2026-08-14,Printed Pret 2-Piece,Ready-to-Wear,6700.0,0.0,Karachi,COD,Returned,WhatsApp,6700.0,0,1,0,0.0,2026-08-01,Friday,No discount
+LM-1476,2026-08-15,Digital Print Lawn,Lawn 3-Piece,9500.0,0.1,Faisalabad,COD,Delivered,WhatsApp,8550.0,1,0,0,8550.0,2026-08-01,Saturday,1-10%
+LM-1477,2026-08-15,Co-ord Set,Ready-to-Wear,5000.0,0.3,Lahore,COD,Delivered,Instagram,3500.0,1,0,0,3500.0,2026-08-01,Saturday,Over 20%
+LM-1478,2026-08-16,Digital Print Lawn,Lawn 3-Piece,9300.0,0.3,Karachi,COD,Delivered,Facebook,6510.0,1,0,0,6510.0,2026-08-01,Sunday,Over 20%
+LM-1480,2026-08-17,Embroidered Kurti,Kurti,3200.0,0.2,Islamabad,COD,Delivered,WhatsApp,2560.0,1,0,0,2560.0,2026-08-01,Monday,11-20%
+LM-1479,2026-08-17,Printed Pret 2-Piece,Ready-to-Wear,5600.0,0.2,Hyderabad,COD,Delivered,WhatsApp,4480.0,1,0,0,4480.0,2026-08-01,Monday,11-20%
+LM-1482,2026-08-18,Digital Print Lawn,Lawn 3-Piece,6100.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,6100.0,1,0,0,6100.0,2026-08-01,Tuesday,No discount
+LM-1481,2026-08-18,Digital Print Lawn,Lawn 3-Piece,7800.0,0.2,Other,COD,Returned,Instagram,6240.0,0,1,0,0.0,2026-08-01,Tuesday,11-20%
+LM-1484,2026-08-19,Printed Lawn Suit,Lawn 3-Piece,8400.0,0.0,Islamabad,COD,Returned,Facebook,8400.0,0,1,0,0.0,2026-08-01,Wednesday,No discount
+LM-1483,2026-08-19,Embroidered Kurti,Kurti,4000.0,0.15,Multan,COD,Delivered,Instagram,3400.0,1,0,0,3400.0,2026-08-01,Wednesday,11-20%
+LM-1488,2026-08-20,Co-ord Set,Ready-to-Wear,6800.0,0.1,Peshawar,Easypaisa/JazzCash,Delivered,WhatsApp,6120.0,1,0,0,6120.0,2026-08-01,Thursday,1-10%
+LM-1485,2026-08-20,Digital Print Lawn,Lawn 3-Piece,8600.0,0.3,Karachi,COD,Delivered,WhatsApp,6020.0,1,0,0,6020.0,2026-08-01,Thursday,Over 20%
+LM-1486,2026-08-20,Pret Kurta Set,Ready-to-Wear,6000.0,0.3,Lahore,COD,Delivered,WhatsApp,4200.0,1,0,0,4200.0,2026-08-01,Thursday,Over 20%
+LM-1487,2026-08-20,Cotton Kurti,Kurti,3100.0,0.05,Islamabad,Bank Transfer,Delivered,WhatsApp,2945.0,1,0,0,2945.0,2026-08-01,Thursday,1-10%
+LM-1489,2026-08-21,Co-ord Set,Ready-to-Wear,5700.0,0.3,Lahore,COD,Returned,Instagram,3989.9999999999995,0,1,0,0.0,2026-08-01,Friday,Over 20%
+LM-1491,2026-08-23,Net Embroidered Suit,Formal / Chiffon,18900.0,0.15,Multan,COD,Delivered,Facebook,16065.0,1,0,0,16065.0,2026-08-01,Sunday,11-20%
+LM-1490,2026-08-23,Net Embroidered Suit,Formal / Chiffon,12800.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,Facebook,12800.0,1,0,0,12800.0,2026-08-01,Sunday,No discount
+LM-1493,2026-08-24,Co-ord Set,Ready-to-Wear,7300.0,0.2,Lahore,COD,Delivered,Instagram,5840.0,1,0,0,5840.0,2026-08-01,Monday,11-20%
+LM-1492,2026-08-24,Embroidered Lawn Suit,Lawn 3-Piece,5500.0,0.15,Multan,COD,Cancelled,WhatsApp,4675.0,0,0,1,0.0,2026-08-01,Monday,11-20%
+LM-1494,2026-08-25,Printed Pret 2-Piece,Ready-to-Wear,5900.0,0.1,Rawalpindi,Bank Transfer,Delivered,WhatsApp,5310.0,1,0,0,5310.0,2026-08-01,Tuesday,1-10%
+LM-1495,2026-08-26,Co-ord Set,Ready-to-Wear,3700.0,0.0,Faisalabad,COD,Delivered,Facebook,3700.0,1,0,0,3700.0,2026-08-01,Wednesday,No discount
+LM-1498,2026-08-27,Printed Lawn Suit,Lawn 3-Piece,5700.0,0.2,Lahore,COD,Delivered,Facebook,4560.0,1,0,0,4560.0,2026-08-01,Thursday,11-20%
+LM-1500,2026-08-27,Printed Kurti,Kurti,4300.0,0.15,Rawalpindi,Bank Transfer,Delivered,Facebook,3655.0,1,0,0,3655.0,2026-08-01,Thursday,11-20%
+LM-1497,2026-08-27,Cotton Kurti,Kurti,2800.0,0.1,Multan,COD,Delivered,WhatsApp,2520.0,1,0,0,2520.0,2026-08-01,Thursday,1-10%
+LM-1496,2026-08-27,Embroidered Lawn Suit,Lawn 3-Piece,9100.0,0.2,Karachi,Bank Transfer,Delivered,Facebook,7280.0,1,0,0,7280.0,2026-08-01,Thursday,11-20%
+LM-1501,2026-08-27,Printed Lawn Suit,Lawn 3-Piece,7300.0,0.2,Other,COD,Cancelled,WhatsApp,5840.0,0,0,1,0.0,2026-08-01,Thursday,11-20%
+LM-1499,2026-08-27,Embroidered Kurti,Kurti,3500.0,0.15,Peshawar,COD,Delivered,Instagram,2975.0,1,0,0,2975.0,2026-08-01,Thursday,11-20%
+LM-1502,2026-08-28,Embroidered Lawn Suit,Lawn 3-Piece,8300.0,0.0,Multan,COD,Cancelled,Instagram,8300.0,0,0,1,0.0,2026-08-01,Friday,No discount
+LM-1503,2026-09-01,Printed Lawn Suit,Lawn 3-Piece,7700.0,0.0,Multan,COD,Delivered,WhatsApp,7700.0,1,0,0,7700.0,2026-09-01,Tuesday,No discount
+LM-1504,2026-09-01,Co-ord Set,Ready-to-Wear,7200.0,0.0,Other,COD,Delivered,Instagram,7200.0,1,0,0,7200.0,2026-09-01,Tuesday,No discount
+LM-1505,2026-09-02,Pret Kurta Set,Ready-to-Wear,4300.0,0.05,Peshawar,COD,Delivered,Facebook,4085.0,1,0,0,4085.0,2026-09-01,Wednesday,1-10%
+LM-1507,2026-09-05,Cotton Kurti,Kurti,3000.0,0.0,Karachi,COD,Delivered,Instagram,3000.0,1,0,0,3000.0,2026-09-01,Saturday,No discount
+LM-1506,2026-09-05,Wedding Formal 3-Piece,Formal / Chiffon,27600.0,0.1,Karachi,COD,Delivered,Instagram,24840.0,1,0,0,24840.0,2026-09-01,Saturday,1-10%
+LM-1508,2026-09-05,Wedding Formal 3-Piece,Formal / Chiffon,15900.0,0.0,Karachi,COD,Returned,WhatsApp,15900.0,0,1,0,0.0,2026-09-01,Saturday,No discount
+LM-1510,2026-09-06,Winter Printed Suit,Winter Khaddar,9200.0,0.0,Hyderabad,COD,Delivered,Facebook,9200.0,1,0,0,9200.0,2026-09-01,Sunday,No discount
+LM-1509,2026-09-06,Wedding Formal 3-Piece,Formal / Chiffon,14400.0,0.05,Karachi,Bank Transfer,Delivered,Instagram,13680.0,1,0,0,13680.0,2026-09-01,Sunday,1-10%
+LM-1511,2026-09-07,Printed Pret 2-Piece,Ready-to-Wear,5000.0,0.0,Karachi,Bank Transfer,Delivered,Facebook,5000.0,1,0,0,5000.0,2026-09-01,Monday,No discount
+LM-1512,2026-09-07,Net Embroidered Suit,Formal / Chiffon,21900.0,0.0,Faisalabad,Bank Transfer,Delivered,Instagram,21900.0,1,0,0,21900.0,2026-09-01,Monday,No discount
+LM-1513,2026-09-09,Embroidered Kurti,Kurti,2700.0,0.0,Lahore,COD,Delivered,Referral,2700.0,1,0,0,2700.0,2026-09-01,Wednesday,No discount
+LM-1514,2026-09-09,Co-ord Set,Ready-to-Wear,5400.0,0.05,Karachi,COD,Delivered,Facebook,5130.0,1,0,0,5130.0,2026-09-01,Wednesday,1-10%
+LM-1515,2026-09-10,Printed Kurti,Kurti,3300.0,0.0,Islamabad,Easypaisa/JazzCash,Delivered,Instagram,3300.0,1,0,0,3300.0,2026-09-01,Thursday,No discount
+LM-1517,2026-09-11,Net Embroidered Suit,Formal / Chiffon,21300.0,0.0,Other,COD,Delivered,Referral,21300.0,1,0,0,21300.0,2026-09-01,Friday,No discount
+LM-1516,2026-09-11,Embroidered Kurti,Kurti,4000.0,0.0,Multan,COD,Delivered,Instagram,4000.0,1,0,0,4000.0,2026-09-01,Friday,No discount
+LM-1518,2026-09-11,Net Embroidered Suit,Formal / Chiffon,26900.0,0.0,Rawalpindi,COD,Delivered,Referral,26900.0,1,0,0,26900.0,2026-09-01,Friday,No discount
+LM-1519,2026-09-11,Printed Pret 2-Piece,Ready-to-Wear,4300.0,0.0,Karachi,COD,Delivered,Facebook,4300.0,1,0,0,4300.0,2026-09-01,Friday,No discount
+LM-1520,2026-09-12,Printed Kurti,Kurti,3800.0,0.05,Other,COD,Delivered,Instagram,3610.0,1,0,0,3610.0,2026-09-01,Saturday,1-10%
+LM-1522,2026-09-12,Printed Kurti,Kurti,3000.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,3000.0,1,0,0,3000.0,2026-09-01,Saturday,No discount
+LM-1521,2026-09-12,Embroidered Kurti,Kurti,4100.0,0.0,Peshawar,COD,Delivered,Facebook,4100.0,1,0,0,4100.0,2026-09-01,Saturday,No discount
+LM-1523,2026-09-12,Printed Pret 2-Piece,Ready-to-Wear,4100.0,0.1,Other,Bank Transfer,Delivered,Instagram,3690.0,1,0,0,3690.0,2026-09-01,Saturday,1-10%
+LM-1524,2026-09-14,Embroidered Kurti,Kurti,4000.0,0.0,Karachi,COD,Delivered,WhatsApp,4000.0,1,0,0,4000.0,2026-09-01,Monday,No discount
+LM-1526,2026-09-14,Co-ord Set,Ready-to-Wear,5900.0,0.05,Karachi,COD,Delivered,Instagram,5605.0,1,0,0,5605.0,2026-09-01,Monday,1-10%
+LM-1525,2026-09-14,Co-ord Set,Ready-to-Wear,3800.0,0.0,Peshawar,COD,Delivered,Referral,3800.0,1,0,0,3800.0,2026-09-01,Monday,No discount
+LM-1527,2026-09-15,Wedding Formal 3-Piece,Formal / Chiffon,18300.0,0.1,Unknown,Bank Transfer,Delivered,Instagram,16470.0,1,0,0,16470.0,2026-09-01,Tuesday,1-10%
+LM-1529,2026-09-16,Printed Lawn Suit,Lawn 3-Piece,6100.0,0.0,Multan,Bank Transfer,Delivered,Instagram,6100.0,1,0,0,6100.0,2026-09-01,Wednesday,No discount
+LM-1528,2026-09-16,Chiffon Formal Suit,Formal / Chiffon,18700.0,0.0,Karachi,COD,Delivered,Instagram,18700.0,1,0,0,18700.0,2026-09-01,Wednesday,No discount
+LM-1530,2026-09-17,Pret Kurta Set,Ready-to-Wear,5600.0,0.1,Rawalpindi,Bank Transfer,Delivered,Instagram,5040.0,1,0,0,5040.0,2026-09-01,Thursday,1-10%
+LM-1531,2026-09-19,Embroidered Kurti,Kurti,3000.0,0.0,Faisalabad,COD,Delivered,Referral,3000.0,1,0,0,3000.0,2026-09-01,Saturday,No discount
+LM-1532,2026-09-19,Cotton Kurti,Kurti,3100.0,0.05,Hyderabad,Easypaisa/JazzCash,Delivered,Facebook,2945.0,1,0,0,2945.0,2026-09-01,Saturday,1-10%
+LM-1533,2026-09-19,Co-ord Set,Ready-to-Wear,4600.0,0.0,Faisalabad,COD,Delivered,WhatsApp,4600.0,1,0,0,4600.0,2026-09-01,Saturday,No discount
+LM-1535,2026-09-20,Net Embroidered Suit,Formal / Chiffon,21800.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,Instagram,21800.0,1,0,0,21800.0,2026-09-01,Sunday,No discount
+LM-1534,2026-09-20,Cotton Kurti,Kurti,3800.0,0.0,Karachi,Easypaisa/JazzCash,Delivered,Facebook,3800.0,1,0,0,3800.0,2026-09-01,Sunday,No discount
+LM-1537,2026-09-21,Embroidered Kurti,Kurti,2700.0,0.0,Peshawar,Easypaisa/JazzCash,Delivered,WhatsApp,2700.0,1,0,0,2700.0,2026-09-01,Monday,No discount
+LM-1538,2026-09-21,Printed Kurti,Kurti,4300.0,0.05,Lahore,COD,Delivered,Instagram,4085.0,1,0,0,4085.0,2026-09-01,Monday,1-10%
+LM-1539,2026-09-21,Embroidered Kurti,Kurti,2600.0,0.0,Peshawar,COD,Delivered,WhatsApp,2600.0,1,0,0,2600.0,2026-09-01,Monday,No discount
+LM-1536,2026-09-21,Printed Kurti,Kurti,4200.0,0.0,Karachi,COD,Delivered,WhatsApp,4200.0,1,0,0,4200.0,2026-09-01,Monday,No discount
+LM-1540,2026-09-22,Pret Kurta Set,Ready-to-Wear,3800.0,0.0,Karachi,COD,Cancelled,Instagram,3800.0,0,0,1,0.0,2026-09-01,Tuesday,No discount
+LM-1541,2026-09-23,Net Embroidered Suit,Formal / Chiffon,14400.0,0.0,Other,COD,Cancelled,WhatsApp,14400.0,0,0,1,0.0,2026-09-01,Wednesday,No discount
+LM-1542,2026-09-24,Pret Kurta Set,Ready-to-Wear,6400.0,0.0,Islamabad,COD,Delivered,Facebook,6400.0,1,0,0,6400.0,2026-09-01,Thursday,No discount
+LM-1544,2026-09-25,Pret Kurta Set,Ready-to-Wear,3600.0,0.05,Lahore,COD,Cancelled,WhatsApp,3420.0,0,0,1,0.0,2026-09-01,Friday,1-10%
+LM-1543,2026-09-25,Co-ord Set,Ready-to-Wear,7500.0,0.0,Other,COD,Delivered,Instagram,7500.0,1,0,0,7500.0,2026-09-01,Friday,No discount
+LM-1545,2026-09-25,Chiffon Formal Suit,Formal / Chiffon,17200.0,0.0,Karachi,COD,Delivered,WhatsApp,17200.0,1,0,0,17200.0,2026-09-01,Friday,No discount
+LM-1546,2026-09-26,Pret Kurta Set,Ready-to-Wear,7200.0,0.0,Karachi,COD,Delivered,Referral,7200.0,1,0,0,7200.0,2026-09-01,Saturday,No discount
+LM-1547,2026-09-26,Printed Pret 2-Piece,Ready-to-Wear,4300.0,0.1,Hyderabad,COD,Delivered,Facebook,3870.0,1,0,0,3870.0,2026-09-01,Saturday,1-10%
+LM-1548,2026-09-27,Embroidered Kurti,Kurti,3200.0,0.0,Multan,COD,Delivered,Facebook,3200.0,1,0,0,3200.0,2026-09-01,Sunday,No discount
+LM-1549,2026-09-27,Cotton Kurti,Kurti,2700.0,0.0,Karachi,COD,Delivered,Instagram,2700.0,1,0,0,2700.0,2026-09-01,Sunday,No discount
+LM-1550,2026-10-01,Co-ord Set,Ready-to-Wear,5800.0,0.05,Karachi,Bank Transfer,Delivered,Instagram,5510.0,1,0,0,5510.0,2026-10-01,Thursday,1-10%
+LM-1551,2026-10-02,Wedding Formal 3-Piece,Formal / Chiffon,25500.0,0.0,Unknown,Bank Transfer,Delivered,WhatsApp,25500.0,1,0,0,25500.0,2026-10-01,Friday,No discount
+LM-1552,2026-10-03,Printed Pret 2-Piece,Ready-to-Wear,5600.0,0.0,Lahore,COD,Delivered,Instagram,5600.0,1,0,0,5600.0,2026-10-01,Saturday,No discount
+LM-1553,2026-10-03,Digital Print Lawn,Lawn 3-Piece,5800.0,0.0,Other,COD,Delivered,Referral,5800.0,1,0,0,5800.0,2026-10-01,Saturday,No discount
+LM-1554,2026-10-04,Winter Printed Suit,Winter Khaddar,7200.0,0.05,Karachi,Bank Transfer,Delivered,Facebook,6840.0,1,0,0,6840.0,2026-10-01,Sunday,1-10%
+LM-1555,2026-10-04,Winter Printed Suit,Winter Khaddar,11700.0,0.0,Faisalabad,COD,Delivered,Instagram,11700.0,1,0,0,11700.0,2026-10-01,Sunday,No discount
+LM-1556,2026-10-05,Wedding Formal 3-Piece,Formal / Chiffon,18500.0,0.0,Karachi,Bank Transfer,Delivered,Facebook,18500.0,1,0,0,18500.0,2026-10-01,Monday,No discount
+LM-1557,2026-10-06,Co-ord Set,Ready-to-Wear,7200.0,0.0,Islamabad,Easypaisa/JazzCash,Delivered,Instagram,7200.0,1,0,0,7200.0,2026-10-01,Tuesday,No discount
+LM-1560,2026-10-06,Digital Print Lawn,Lawn 3-Piece,5500.0,0.1,Karachi,COD,Delivered,Facebook,4950.0,1,0,0,4950.0,2026-10-01,Tuesday,1-10%
+LM-1558,2026-10-06,Printed Kurti,Kurti,3700.0,0.0,Islamabad,COD,Delivered,Instagram,3700.0,1,0,0,3700.0,2026-10-01,Tuesday,No discount
+LM-1561,2026-10-06,Net Embroidered Suit,Formal / Chiffon,16700.0,0.0,Other,Bank Transfer,Delivered,Instagram,16700.0,1,0,0,16700.0,2026-10-01,Tuesday,No discount
+LM-1559,2026-10-06,Co-ord Set,Ready-to-Wear,5100.0,0.0,Lahore,COD,Delivered,Instagram,5100.0,1,0,0,5100.0,2026-10-01,Tuesday,No discount
+LM-1562,2026-10-07,Pret Kurta Set,Ready-to-Wear,4300.0,0.1,Hyderabad,COD,Cancelled,WhatsApp,3870.0,0,0,1,0.0,2026-10-01,Wednesday,1-10%
+LM-1565,2026-10-09,Embroidered Lawn Suit,Lawn 3-Piece,9300.0,0.0,Unknown,COD,Delivered,WhatsApp,9300.0,1,0,0,9300.0,2026-10-01,Friday,No discount
+LM-1564,2026-10-09,Printed Kurti,Kurti,4000.0,0.0,Karachi,Bank Transfer,Delivered,Instagram,4000.0,1,0,0,4000.0,2026-10-01,Friday,No discount
+LM-1563,2026-10-09,Chiffon Formal Suit,Formal / Chiffon,17700.0,0.0,Multan,COD,Delivered,Facebook,17700.0,1,0,0,17700.0,2026-10-01,Friday,No discount
+LM-1567,2026-10-11,Co-ord Set,Ready-to-Wear,5100.0,0.0,Peshawar,Easypaisa/JazzCash,Delivered,Instagram,5100.0,1,0,0,5100.0,2026-10-01,Sunday,No discount
+LM-1566,2026-10-11,Printed Pret 2-Piece,Ready-to-Wear,6400.0,0.0,Lahore,Easypaisa/JazzCash,Delivered,Instagram,6400.0,1,0,0,6400.0,2026-10-01,Sunday,No discount
+LM-1569,2026-10-12,Cotton Kurti,Kurti,2900.0,0.0,Lahore,COD,Delivered,WhatsApp,2900.0,1,0,0,2900.0,2026-10-01,Monday,No discount
+LM-1568,2026-10-12,Cotton Kurti,Kurti,3900.0,0.05,Karachi,COD,Delivered,WhatsApp,3705.0,1,0,0,3705.0,2026-10-01,Monday,1-10%
+LM-1570,2026-10-12,Cotton Kurti,Kurti,3800.0,0.0,Rawalpindi,COD,Delivered,Instagram,3800.0,1,0,0,3800.0,2026-10-01,Monday,No discount
+LM-1572,2026-10-12,Khaddar Embroidered Suit,Winter Khaddar,11600.0,0.05,Rawalpindi,COD,Delivered,Instagram,11020.0,1,0,0,11020.0,2026-10-01,Monday,1-10%
+LM-1571,2026-10-12,Printed Kurti,Kurti,2700.0,0.1,Faisalabad,COD,Delivered,Referral,2430.0,1,0,0,2430.0,2026-10-01,Monday,1-10%
+LM-1573,2026-10-13,Digital Print Lawn,Lawn 3-Piece,8200.0,0.0,Faisalabad,COD,Returned,Facebook,8200.0,0,1,0,0.0,2026-10-01,Tuesday,No discount
+LM-1574,2026-10-13,Printed Kurti,Kurti,3600.0,0.1,Islamabad,COD,Delivered,WhatsApp,3240.0,1,0,0,3240.0,2026-10-01,Tuesday,1-10%
+LM-1576,2026-10-14,Winter Printed Suit,Winter Khaddar,9400.0,0.0,Rawalpindi,Easypaisa/JazzCash,Delivered,WhatsApp,9400.0,1,0,0,9400.0,2026-10-01,Wednesday,No discount
+LM-1577,2026-10-14,Printed Lawn Suit,Lawn 3-Piece,7600.0,0.0,Peshawar,COD,Delivered,Instagram,7600.0,1,0,0,7600.0,2026-10-01,Wednesday,No discount
+LM-1575,2026-10-14,Chiffon Formal Suit,Formal / Chiffon,18700.0,0.05,Other,COD,Cancelled,WhatsApp,17765.0,0,0,1,0.0,2026-10-01,Wednesday,1-10%
+LM-1579,2026-10-15,Chiffon Formal Suit,Formal / Chiffon,22600.0,0.05,Other,COD,Delivered,Facebook,21470.0,1,0,0,21470.0,2026-10-01,Thursday,1-10%
+LM-1578,2026-10-15,Karandi 3-Piece,Winter Khaddar,7400.0,0.0,Rawalpindi,COD,Cancelled,Instagram,7400.0,0,0,1,0.0,2026-10-01,Thursday,No discount
+LM-1581,2026-10-17,Printed Kurti,Kurti,3700.0,0.2,Karachi,COD,Delivered,WhatsApp,2960.0,1,0,0,2960.0,2026-10-01,Saturday,11-20%
+LM-1580,2026-10-17,Printed Lawn Suit,Lawn 3-Piece,5600.0,0.0,Karachi,COD,Delivered,Instagram,5600.0,1,0,0,5600.0,2026-10-01,Saturday,No discount
+LM-1585,2026-10-18,Karandi 3-Piece,Winter Khaddar,6900.0,0.0,Karachi,Bank Transfer,Delivered,Referral,6900.0,1,0,0,6900.0,2026-10-01,Sunday,No discount
+LM-1582,2026-10-18,Pret Kurta Set,Ready-to-Wear,7400.0,0.0,Faisalabad,COD,Delivered,WhatsApp,7400.0,1,0,0,7400.0,2026-10-01,Sunday,No discount
+LM-1583,2026-10-18,Pret Kurta Set,Ready-to-Wear,5800.0,0.1,Islamabad,Easypaisa/JazzCash,Delivered,Instagram,5220.0,1,0,0,5220.0,2026-10-01,Sunday,1-10%
+LM-1584,2026-10-18,Printed Pret 2-Piece,Ready-to-Wear,7300.0,0.0,Karachi,COD,Delivered,Instagram,7300.0,1,0,0,7300.0,2026-10-01,Sunday,No discount
+LM-1586,2026-10-20,Pret Kurta Set,Ready-to-Wear,5000.0,0.1,Hyderabad,COD,Cancelled,WhatsApp,4500.0,0,0,1,0.0,2026-10-01,Tuesday,1-10%
+LM-1589,2026-10-21,Co-ord Set,Ready-to-Wear,5500.0,0.0,Peshawar,COD,Delivered,Instagram,5500.0,1,0,0,5500.0,2026-10-01,Wednesday,No discount
+LM-1587,2026-10-21,Net Embroidered Suit,Formal / Chiffon,25300.0,0.1,Multan,COD,Returned,Instagram,22770.0,0,1,0,0.0,2026-10-01,Wednesday,1-10%
+LM-1588,2026-10-21,Khaddar Embroidered Suit,Winter Khaddar,7600.0,0.1,Karachi,Easypaisa/JazzCash,Delivered,WhatsApp,6840.0,1,0,0,6840.0,2026-10-01,Wednesday,1-10%
+LM-1590,2026-10-23,Khaddar Embroidered Suit,Winter Khaddar,8000.0,0.0,Islamabad,COD,Delivered,WhatsApp,8000.0,1,0,0,8000.0,2026-10-01,Friday,No discount
+LM-1591,2026-10-24,Khaddar Embroidered Suit,Winter Khaddar,10800.0,0.0,Rawalpindi,COD,Delivered,Instagram,10800.0,1,0,0,10800.0,2026-10-01,Saturday,No discount
+LM-1592,2026-10-24,Co-ord Set,Ready-to-Wear,6100.0,0.0,Rawalpindi,COD,Delivered,WhatsApp,6100.0,1,0,0,6100.0,2026-10-01,Saturday,No discount
+LM-1593,2026-10-24,Embroidered Lawn Suit,Lawn 3-Piece,6900.0,0.0,Faisalabad,COD,Returned,Facebook,6900.0,0,1,0,0.0,2026-10-01,Saturday,No discount
+LM-1595,2026-10-26,Pret Kurta Set,Ready-to-Wear,4600.0,0.0,Islamabad,COD,Delivered,Instagram,4600.0,1,0,0,4600.0,2026-10-01,Monday,No discount
+LM-1594,2026-10-26,Khaddar Embroidered Suit,Winter Khaddar,8500.0,0.15,Lahore,Easypaisa/JazzCash,Delivered,Instagram,7225.0,1,0,0,7225.0,2026-10-01,Monday,11-20%
+LM-1599,2026-10-27,Pret Kurta Set,Ready-to-Wear,4600.0,0.05,Lahore,Easypaisa/JazzCash,Delivered,Facebook,4370.0,1,0,0,4370.0,2026-10-01,Tuesday,1-10%
+LM-1596,2026-10-27,Embroidered Kurti,Kurti,3300.0,0.2,Karachi,COD,Delivered,Facebook,2640.0,1,0,0,2640.0,2026-10-01,Tuesday,11-20%
+LM-1597,2026-10-27,Net Embroidered Suit,Formal / Chiffon,20000.0,0.0,Karachi,COD,Delivered,WhatsApp,20000.0,1,0,0,20000.0,2026-10-01,Tuesday,No discount
+LM-1598,2026-10-27,Cotton Kurti,Kurti,2600.0,0.0,Karachi,COD,Delivered,Instagram,2600.0,1,0,0,2600.0,2026-10-01,Tuesday,No discount
+LM-1600,2026-10-28,Digital Print Lawn,Lawn 3-Piece,6800.0,0.0,Other,COD,Cancelled,Instagram,6800.0,0,0,1,0.0,2026-10-01,Wednesday,No discount
